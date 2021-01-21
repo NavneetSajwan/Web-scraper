@@ -1,0 +1,740 @@
+{
+    "value": "Ashok Leyland",
+    "data-make-id": "461",
+    "model_list": [
+        {
+            "model_org_name": "Stile",
+            "ex_showroom_price": 799000,
+            "body_type": "muv",
+            "model": "stile",
+            "model_id": "5311",
+            "make_id": "461",
+            "make": "ashok leyland",
+            "trim_list": [
+                {
+                    "trim": "le",
+                    "model_org_name": "Stile",
+                    "ex_showroom_price": 799000,
+                    "body_type": "muv",
+                    "model": "stile",
+                    "model_id": "5311",
+                    "fuel_type": "diesel",
+                    "make_id": "461",
+                    "trim_id": "444771",
+                    "make": "ashok leyland",
+                    "trim_org_name": "LE",
+                    "data": {
+                        "code": "success",
+                        "data": {
+                            "fuel_type": "diesel",
+                            "body_type": "muv",
+                            "vehicle_image": "https://cdn1.acedms.com/uploads/category/ashok-leyland/20171108110033000000-1859412813505688321.png"
+                        },
+                        "prices_list": [
+                            {
+                                "part_name": "Wiper Blades",
+                                "price_min": "550",
+                                "price_max": "670"
+                            },
+                            {
+                                "part_name": "Front Bumper",
+                                "price_min": "2830",
+                                "price_max": "3460"
+                            },
+                            {
+                                "part_name": "Front Fender",
+                                "price_min": "2040",
+                                "price_max": "2500"
+                            },
+                            {
+                                "part_name": "Bonnet",
+                                "price_min": "6760",
+                                "price_max": "8260"
+                            },
+                            {
+                                "part_name": "Front Door",
+                                "price_min": "7800",
+                                "price_max": "9530"
+                            },
+                            {
+                                "part_name": "Bootlid",
+                                "price_min": "8160",
+                                "price_max": "9980"
+                            },
+                            {
+                                "part_name": "Front Windscreen Glass",
+                                "price_min": "3450",
+                                "price_max": "4210"
+                            },
+                            {
+                                "part_name": "Side Mirrors",
+                                "price_min": "1530",
+                                "price_max": "1870"
+                            },
+                            {
+                                "part_name": "Front Strut",
+                                "price_min": "2000",
+                                "price_max": "2450"
+                            },
+                            {
+                                "part_name": "Front Suspension Lower Arm",
+                                "price_min": "2160",
+                                "price_max": "2640"
+                            },
+                            {
+                                "part_name": "Suspension Overhaul",
+                                "price_min": "3420",
+                                "price_max": "4180"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "trim": "le 7 seater",
+                    "model_org_name": "Stile",
+                    "ex_showroom_price": 798000,
+                    "body_type": "muv",
+                    "model": "stile",
+                    "model_id": "5311",
+                    "fuel_type": "diesel",
+                    "make_id": "461",
+                    "trim_id": "444681",
+                    "make": "ashok leyland",
+                    "trim_org_name": "LE 7 SEATER",
+                    "data": {
+                        "code": "success",
+                        "data": {
+                            "fuel_type": "diesel",
+                            "body_type": "muv",
+                            "vehicle_image": "https://cdn1.acedms.com/uploads/category/ashok-leyland/20171108110033000000-1859412813505688321.png"
+                        },
+                        "prices_list": [
+                            {
+                                "part_name": "Wiper Blades",
+                                "price_min": "550",
+                                "price_max": "670"
+                            },
+                            {
+                                "part_name": "Front Bumper",
+                                "price_min": "2830",
+                                "price_max": "3460"
+                            },
+                            {
+                                "part_name": "Front Fender",
+                                "price_min": "2040",
+                                "price_max": "2500"
+                            },
+                            {
+                                "part_name": "Bonnet",
+                                "price_min": "6760",
+                                "price_max": "8260"
+                            },
+                            {
+                                "part_name": "Front Door",
+                                "price_min": "7800",
+                                "price_max": "9530"
+                            },
+                            {
+                                "part_name": "Bootlid",
+                                "price_min": "8160",
+                                "price_max": "9980"
+                            },
+                            {
+                                "part_name": "Front Windscreen Glass",
+                                "price_min": "3450",
+                                "price_max": "4210"
+                            },
+                            {
+                                "part_name": "Side Mirrors",
+                                "price_min": "1530",
+                                "price_max": "1870"
+                            },
+                            {
+                                "part_name": "Front Strut",
+                                "price_min": "2000",
+                                "price_max": "2450"
+                            },
+                            {
+                                "part_name": "Front Suspension Lower Arm",
+                                "price_min": "2160",
+                                "price_max": "2640"
+                            },
+                            {
+                                "part_name": "Suspension Overhaul",
+                                "price_min": "3420",
+                                "price_max": "4180"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "trim": "le 8 seater",
+                    "model_org_name": "Stile",
+                    "ex_showroom_price": 749800,
+                    "body_type": "muv",
+                    "model": "stile",
+                    "model_id": "5311",
+                    "fuel_type": "diesel",
+                    "make_id": "461",
+                    "trim_id": "444711",
+                    "make": "ashok leyland",
+                    "trim_org_name": "LE 8 SEATER",
+                    "data": {
+                        "code": "success",
+                        "data": {
+                            "fuel_type": "diesel",
+                            "body_type": "muv",
+                            "vehicle_image": "https://cdn1.acedms.com/uploads/category/ashok-leyland/20171108110033000000-1859412813505688321.png"
+                        },
+                        "prices_list": [
+                            {
+                                "part_name": "Wiper Blades",
+                                "price_min": "550",
+                                "price_max": "670"
+                            },
+                            {
+                                "part_name": "Front Bumper",
+                                "price_min": "2830",
+                                "price_max": "3460"
+                            },
+                            {
+                                "part_name": "Front Fender",
+                                "price_min": "2040",
+                                "price_max": "2500"
+                            },
+                            {
+                                "part_name": "Bonnet",
+                                "price_min": "6760",
+                                "price_max": "8260"
+                            },
+                            {
+                                "part_name": "Front Door",
+                                "price_min": "7800",
+                                "price_max": "9530"
+                            },
+                            {
+                                "part_name": "Bootlid",
+                                "price_min": "8160",
+                                "price_max": "9980"
+                            },
+                            {
+                                "part_name": "Front Windscreen Glass",
+                                "price_min": "3450",
+                                "price_max": "4210"
+                            },
+                            {
+                                "part_name": "Side Mirrors",
+                                "price_min": "1530",
+                                "price_max": "1870"
+                            },
+                            {
+                                "part_name": "Front Strut",
+                                "price_min": "2000",
+                                "price_max": "2450"
+                            },
+                            {
+                                "part_name": "Front Suspension Lower Arm",
+                                "price_min": "2160",
+                                "price_max": "2640"
+                            },
+                            {
+                                "part_name": "Suspension Overhaul",
+                                "price_min": "3420",
+                                "price_max": "4180"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "trim": "ls",
+                    "model_org_name": "Stile",
+                    "ex_showroom_price": 799000,
+                    "body_type": "muv",
+                    "model": "stile",
+                    "model_id": "5311",
+                    "fuel_type": "diesel",
+                    "make_id": "461",
+                    "trim_id": "444761",
+                    "make": "ashok leyland",
+                    "trim_org_name": "LS",
+                    "data": {
+                        "code": "success",
+                        "data": {
+                            "fuel_type": "diesel",
+                            "body_type": "muv",
+                            "vehicle_image": "https://cdn1.acedms.com/uploads/category/ashok-leyland/20171108110033000000-1859412813505688321.png"
+                        },
+                        "prices_list": [
+                            {
+                                "part_name": "Wiper Blades",
+                                "price_min": "550",
+                                "price_max": "670"
+                            },
+                            {
+                                "part_name": "Front Bumper",
+                                "price_min": "2830",
+                                "price_max": "3460"
+                            },
+                            {
+                                "part_name": "Front Fender",
+                                "price_min": "2040",
+                                "price_max": "2500"
+                            },
+                            {
+                                "part_name": "Bonnet",
+                                "price_min": "6760",
+                                "price_max": "8260"
+                            },
+                            {
+                                "part_name": "Front Door",
+                                "price_min": "7800",
+                                "price_max": "9530"
+                            },
+                            {
+                                "part_name": "Bootlid",
+                                "price_min": "8160",
+                                "price_max": "9980"
+                            },
+                            {
+                                "part_name": "Front Windscreen Glass",
+                                "price_min": "3450",
+                                "price_max": "4210"
+                            },
+                            {
+                                "part_name": "Side Mirrors",
+                                "price_min": "1530",
+                                "price_max": "1870"
+                            },
+                            {
+                                "part_name": "Front Strut",
+                                "price_min": "2000",
+                                "price_max": "2450"
+                            },
+                            {
+                                "part_name": "Front Suspension Lower Arm",
+                                "price_min": "2160",
+                                "price_max": "2640"
+                            },
+                            {
+                                "part_name": "Suspension Overhaul",
+                                "price_min": "3420",
+                                "price_max": "4180"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "trim": "ls 7 seater",
+                    "model_org_name": "Stile",
+                    "ex_showroom_price": 876000,
+                    "body_type": "muv",
+                    "model": "stile",
+                    "model_id": "5311",
+                    "fuel_type": "diesel",
+                    "make_id": "461",
+                    "trim_id": "444691",
+                    "make": "ashok leyland",
+                    "trim_org_name": "LS 7 SEATER",
+                    "data": {
+                        "code": "success",
+                        "data": {
+                            "fuel_type": "diesel",
+                            "body_type": "muv",
+                            "vehicle_image": "https://cdn1.acedms.com/uploads/category/ashok-leyland/20171108110033000000-1859412813505688321.png"
+                        },
+                        "prices_list": [
+                            {
+                                "part_name": "Wiper Blades",
+                                "price_min": "550",
+                                "price_max": "670"
+                            },
+                            {
+                                "part_name": "Front Bumper",
+                                "price_min": "2830",
+                                "price_max": "3460"
+                            },
+                            {
+                                "part_name": "Front Fender",
+                                "price_min": "2040",
+                                "price_max": "2500"
+                            },
+                            {
+                                "part_name": "Bonnet",
+                                "price_min": "6760",
+                                "price_max": "8260"
+                            },
+                            {
+                                "part_name": "Front Door",
+                                "price_min": "7800",
+                                "price_max": "9530"
+                            },
+                            {
+                                "part_name": "Bootlid",
+                                "price_min": "8160",
+                                "price_max": "9980"
+                            },
+                            {
+                                "part_name": "Front Windscreen Glass",
+                                "price_min": "3450",
+                                "price_max": "4210"
+                            },
+                            {
+                                "part_name": "Side Mirrors",
+                                "price_min": "1530",
+                                "price_max": "1870"
+                            },
+                            {
+                                "part_name": "Front Strut",
+                                "price_min": "2000",
+                                "price_max": "2450"
+                            },
+                            {
+                                "part_name": "Front Suspension Lower Arm",
+                                "price_min": "2160",
+                                "price_max": "2640"
+                            },
+                            {
+                                "part_name": "Suspension Overhaul",
+                                "price_min": "3420",
+                                "price_max": "4180"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "trim": "ls 8 seater",
+                    "model_org_name": "Stile",
+                    "ex_showroom_price": 799000,
+                    "body_type": "van",
+                    "model": "stile",
+                    "model_id": "5311",
+                    "fuel_type": "diesel",
+                    "make_id": "461",
+                    "trim_id": "444721",
+                    "make": "ashok leyland",
+                    "trim_org_name": "LS 8 SEATER",
+                    "data": {
+                        "code": "success",
+                        "data": {
+                            "fuel_type": "diesel",
+                            "body_type": "van",
+                            "vehicle_image": "https://cdn1.acedms.com/uploads/category/ashok-leyland/20171108110033000000-1859412813505688321.png"
+                        }
+                    }
+                },
+                {
+                    "trim": "lx",
+                    "model_org_name": "Stile",
+                    "ex_showroom_price": 799000,
+                    "body_type": "muv",
+                    "model": "stile",
+                    "model_id": "5311",
+                    "fuel_type": "diesel",
+                    "make_id": "461",
+                    "trim_id": "444751",
+                    "make": "ashok leyland",
+                    "trim_org_name": "LX",
+                    "data": {
+                        "code": "success",
+                        "data": {
+                            "fuel_type": "diesel",
+                            "body_type": "muv",
+                            "vehicle_image": "https://cdn1.acedms.com/uploads/category/ashok-leyland/20171108110033000000-1859412813505688321.png"
+                        },
+                        "prices_list": [
+                            {
+                                "part_name": "Wiper Blades",
+                                "price_min": "550",
+                                "price_max": "670"
+                            },
+                            {
+                                "part_name": "Front Bumper",
+                                "price_min": "2830",
+                                "price_max": "3460"
+                            },
+                            {
+                                "part_name": "Front Fender",
+                                "price_min": "2040",
+                                "price_max": "2500"
+                            },
+                            {
+                                "part_name": "Bonnet",
+                                "price_min": "6760",
+                                "price_max": "8260"
+                            },
+                            {
+                                "part_name": "Front Door",
+                                "price_min": "7800",
+                                "price_max": "9530"
+                            },
+                            {
+                                "part_name": "Bootlid",
+                                "price_min": "8160",
+                                "price_max": "9980"
+                            },
+                            {
+                                "part_name": "Front Windscreen Glass",
+                                "price_min": "3450",
+                                "price_max": "4210"
+                            },
+                            {
+                                "part_name": "Side Mirrors",
+                                "price_min": "1530",
+                                "price_max": "1870"
+                            },
+                            {
+                                "part_name": "Front Strut",
+                                "price_min": "2000",
+                                "price_max": "2450"
+                            },
+                            {
+                                "part_name": "Front Suspension Lower Arm",
+                                "price_min": "2160",
+                                "price_max": "2640"
+                            },
+                            {
+                                "part_name": "Suspension Overhaul",
+                                "price_min": "3420",
+                                "price_max": "4180"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "trim": "lx 7 seater",
+                    "model_org_name": "Stile",
+                    "ex_showroom_price": 890000,
+                    "body_type": "muv",
+                    "model": "stile",
+                    "model_id": "5311",
+                    "fuel_type": "diesel",
+                    "make_id": "461",
+                    "trim_id": "444701",
+                    "make": "ashok leyland",
+                    "trim_org_name": "LX 7 SEATER",
+                    "data": {
+                        "code": "success",
+                        "data": {
+                            "fuel_type": "diesel",
+                            "body_type": "muv",
+                            "vehicle_image": "https://cdn1.acedms.com/uploads/category/ashok-leyland/20171108110033000000-1859412813505688321.png"
+                        },
+                        "prices_list": [
+                            {
+                                "part_name": "Wiper Blades",
+                                "price_min": "550",
+                                "price_max": "670"
+                            },
+                            {
+                                "part_name": "Front Bumper",
+                                "price_min": "2830",
+                                "price_max": "3460"
+                            },
+                            {
+                                "part_name": "Front Fender",
+                                "price_min": "2040",
+                                "price_max": "2500"
+                            },
+                            {
+                                "part_name": "Bonnet",
+                                "price_min": "6760",
+                                "price_max": "8260"
+                            },
+                            {
+                                "part_name": "Front Door",
+                                "price_min": "7800",
+                                "price_max": "9530"
+                            },
+                            {
+                                "part_name": "Bootlid",
+                                "price_min": "8160",
+                                "price_max": "9980"
+                            },
+                            {
+                                "part_name": "Front Windscreen Glass",
+                                "price_min": "3450",
+                                "price_max": "4210"
+                            },
+                            {
+                                "part_name": "Side Mirrors",
+                                "price_min": "1530",
+                                "price_max": "1870"
+                            },
+                            {
+                                "part_name": "Front Strut",
+                                "price_min": "2000",
+                                "price_max": "2450"
+                            },
+                            {
+                                "part_name": "Front Suspension Lower Arm",
+                                "price_min": "2160",
+                                "price_max": "2640"
+                            },
+                            {
+                                "part_name": "Suspension Overhaul",
+                                "price_min": "3420",
+                                "price_max": "4180"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "trim": "lx 8 seater",
+                    "model_org_name": "Stile",
+                    "ex_showroom_price": 799000,
+                    "body_type": "muv",
+                    "model": "stile",
+                    "model_id": "5311",
+                    "fuel_type": "diesel",
+                    "make_id": "461",
+                    "trim_id": "444731",
+                    "make": "ashok leyland",
+                    "trim_org_name": "LX 8 SEATER",
+                    "data": {
+                        "code": "success",
+                        "data": {
+                            "fuel_type": "diesel",
+                            "body_type": "muv",
+                            "vehicle_image": "https://cdn1.acedms.com/uploads/category/ashok-leyland/20171108110033000000-1859412813505688321.png"
+                        },
+                        "prices_list": [
+                            {
+                                "part_name": "Wiper Blades",
+                                "price_min": "550",
+                                "price_max": "670"
+                            },
+                            {
+                                "part_name": "Front Bumper",
+                                "price_min": "2830",
+                                "price_max": "3460"
+                            },
+                            {
+                                "part_name": "Front Fender",
+                                "price_min": "2040",
+                                "price_max": "2500"
+                            },
+                            {
+                                "part_name": "Bonnet",
+                                "price_min": "6760",
+                                "price_max": "8260"
+                            },
+                            {
+                                "part_name": "Front Door",
+                                "price_min": "7800",
+                                "price_max": "9530"
+                            },
+                            {
+                                "part_name": "Bootlid",
+                                "price_min": "8160",
+                                "price_max": "9980"
+                            },
+                            {
+                                "part_name": "Front Windscreen Glass",
+                                "price_min": "3450",
+                                "price_max": "4210"
+                            },
+                            {
+                                "part_name": "Side Mirrors",
+                                "price_min": "1530",
+                                "price_max": "1870"
+                            },
+                            {
+                                "part_name": "Front Strut",
+                                "price_min": "2000",
+                                "price_max": "2450"
+                            },
+                            {
+                                "part_name": "Front Suspension Lower Arm",
+                                "price_min": "2160",
+                                "price_max": "2640"
+                            },
+                            {
+                                "part_name": "Suspension Overhaul",
+                                "price_min": "3420",
+                                "price_max": "4180"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "trim": "lx optional",
+                    "model_org_name": "Stile",
+                    "ex_showroom_price": 799000,
+                    "body_type": "muv",
+                    "model": "stile",
+                    "model_id": "5311",
+                    "fuel_type": "diesel",
+                    "make_id": "461",
+                    "trim_id": "444741",
+                    "make": "ashok leyland",
+                    "trim_org_name": "LX OPTIONAL",
+                    "data": {
+                        "code": "success",
+                        "data": {
+                            "fuel_type": "diesel",
+                            "body_type": "muv",
+                            "vehicle_image": "https://cdn1.acedms.com/uploads/category/ashok-leyland/20171108110033000000-1859412813505688321.png"
+                        },
+                        "prices_list": [
+                            {
+                                "part_name": "Wiper Blades",
+                                "price_min": "550",
+                                "price_max": "670"
+                            },
+                            {
+                                "part_name": "Front Bumper",
+                                "price_min": "2830",
+                                "price_max": "3460"
+                            },
+                            {
+                                "part_name": "Front Fender",
+                                "price_min": "2040",
+                                "price_max": "2500"
+                            },
+                            {
+                                "part_name": "Bonnet",
+                                "price_min": "6760",
+                                "price_max": "8260"
+                            },
+                            {
+                                "part_name": "Front Door",
+                                "price_min": "7800",
+                                "price_max": "9530"
+                            },
+                            {
+                                "part_name": "Bootlid",
+                                "price_min": "8160",
+                                "price_max": "9980"
+                            },
+                            {
+                                "part_name": "Front Windscreen Glass",
+                                "price_min": "3450",
+                                "price_max": "4210"
+                            },
+                            {
+                                "part_name": "Side Mirrors",
+                                "price_min": "1530",
+                                "price_max": "1870"
+                            },
+                            {
+                                "part_name": "Front Strut",
+                                "price_min": "2000",
+                                "price_max": "2450"
+                            },
+                            {
+                                "part_name": "Front Suspension Lower Arm",
+                                "price_min": "2160",
+                                "price_max": "2640"
+                            },
+                            {
+                                "part_name": "Suspension Overhaul",
+                                "price_min": "3420",
+                                "price_max": "4180"
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+    ]
+}
