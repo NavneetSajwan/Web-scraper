@@ -1,0 +1,6034 @@
+{
+  "data": {
+    "Ashok Leyland": {
+      "model": {
+        "Stile": {
+          "trim": [
+            "le",
+            "le 7 seater",
+            "le 8 seater",
+            "ls",
+            "ls 7 seater",
+            "ls 8 seater",
+            "lx",
+            "lx 7 seater",
+            "lx 8 seater",
+            "lx optional"
+          ]
+        }
+      }
+    },
+    "Aston Martin": {
+      "model": {
+        "A40 Somerset": {
+          "trim": [
+            "a40 somerset"
+          ]
+        },
+        "Rapide": {
+          "trim": [
+            "luxe",
+            "s",
+            "s v12",
+            "v 12"
+          ]
+        }
+      }
+    },
+    "Audi": {
+      "model": {
+        "A3": {
+          "trim": [
+            "1.8 tfsi",
+            "2.0 tdi",
+            "35 tdi attraction",
+            "35 tdi premium",
+            "35 tdi premium  sunroof",
+            "35 tdi premium + sunroof",
+            "35 tdi premium plus",
+            "35 tdi premium plus + sunroof",
+            "35 tdi technology",
+            "35 tdi technology + sunroof",
+            "35 tdi technology plus",
+            "35 tfsi premium plus",
+            "35 tfsi technology",
+            "35tdi premium",
+            "40 tfsi",
+            "40 tfsi premium",
+            "40 tfsi premium plus",
+            "40tfsi premium plus"
+          ]
+        },
+        "A4": {
+          "trim": [
+            "1.8 t multitronic",
+            "1.8 tfsi",
+            "1.8 tfsi multitronic",
+            "1.8 tfsi multitronic premium plus",
+            "1.8 tfsi premium plus",
+            "1.8 tfsi technology pack",
+            "2.0 tdi",
+            "2.0 tdi 143 ps technology pack",
+            "2.0 tdi 143hp business edn.",
+            "2.0 tdi 143hp premium edn.",
+            "2.0 tdi 177 bhp",
+            "2.0 tdi 177 bhp premium plus",
+            "2.0 tdi 177 bhp premium sport",
+            "2.0 tdi 177 bhp technology edition",
+            "2.0 tdi multitronic",
+            "2.0 tdi premium",
+            "2.0 tdi premium plus",
+            "2.0 tdi s line",
+            "2.0 tdi technology pack",
+            "2.0 tfsi",
+            "3.0 tdi",
+            "3.0 tdi premium plus",
+            "3.0 tdi quattro",
+            "3.0 tdi quattro premium plus",
+            "3.0 tdi quattro technology pack",
+            "3.0 tdi technology",
+            "3.0 tfsi",
+            "30 tfsi premium plus",
+            "30 tfsi quick lift premium plus",
+            "30 tfsi quick lift technology pack",
+            "30 tfsi technology",
+            "30 tfsi technology pack",
+            "35 tdi multitronic",
+            "35 tdi premium",
+            "35 tdi premium  sunroof",
+            "35 tdi premium plus",
+            "35 tdi premium sport",
+            "35 tdi quattro premium",
+            "35 tdi technology",
+            "35 tdi technology pack",
+            "35 tfsi premium",
+            "35 tfsi premium plus",
+            "lifestyle edition",
+            "s4 3.0 tfsi",
+            "s4 3.0 tfsi quattro"
+          ]
+        },
+        "A5": {
+          "trim": [
+            "s5",
+            "sportback 35 tdi",
+            "sportback 40 tdi"
+          ]
+        },
+        "A6": {
+          "trim": [
+            "2.0 tdi",
+            "2.0 tdi premium plus",
+            "2.0 tdi technology pack",
+            "2.0 tfsi",
+            "2.0 tfsi premium",
+            "2.0 tfsi premium plus",
+            "2.0 tfsi technology pack",
+            "2.7 tdi",
+            "2.7 tdi premium plus",
+            "2.8 fsi",
+            "3.0 tdi",
+            "3.0 tdi premium",
+            "3.0 tdi premium plus",
+            "3.0 tdi quattro premium plus",
+            "3.0 tdi quattro technology pack",
+            "3.0 tfsi quattro",
+            "35 tdi",
+            "35 tdi matrix",
+            "35 tdi premium",
+            "35 tdi premium plus",
+            "35 tdi technology pack",
+            "35 tfsi",
+            "35 tfsi matrix",
+            "35 tfsi technology",
+            "45 tfsi premium plus",
+            "45 tfsi premium plus bs6",
+            "45 tfsi technology",
+            "45 tfsi technology bs6"
+          ]
+        },
+        "A7": {
+          "trim": [
+            "3.0 tdi quattro"
+          ]
+        },
+        "A8 L": {
+          "trim": [
+            "3.0 tdi quattro",
+            "30 tdi",
+            "4.2 fsi quattro",
+            "4.2 tdi",
+            "4.2 tdi quattro",
+            "50 tdi",
+            "50 tdi plus",
+            "55 tfsi",
+            "60 tdi",
+            "60 tfsi",
+            "w12"
+          ]
+        },
+        "Q2": {
+          "trim": [
+            "premium",
+            "premium plus",
+            "premium plus ii",
+            "standard",
+            "technology"
+          ]
+        },
+        "Q3": {
+          "trim": [
+            "2.0 tdi",
+            "2.0 tdi base grade",
+            "2.0 tdi high",
+            "2.0 tdi quattro",
+            "2.0 tdi quattro dynamic",
+            "2.0 tdi quattro premium",
+            "2.0 tdi quattro premium plus",
+            "2.0 tdi s",
+            "2.0 tdi technology",
+            "2.0 tfsi premium plus",
+            "2.0 tfsi quattro",
+            "3.0 tdi",
+            "3.0 tfsi",
+            "30 tdi premium fwd",
+            "30 tdi s",
+            "30 tfsi premium",
+            "35 tdi premium",
+            "35 tdi premium + sunroof",
+            "35 tdi premium plus",
+            "35 tdi quattro",
+            "35 tdi quattro premium plus",
+            "35 tdi quattro technology",
+            "35 tdi quattro technology with navigation",
+            "35 tdi technology",
+            "35 tdi technology with navigation",
+            "quattro primium"
+          ]
+        },
+        "Q5": {
+          "trim": [
+            "2.0 tdi",
+            "2.0 tdi quattro",
+            "2.0 tdi quattro premium",
+            "2.0 tdi quattro premium plus",
+            "2.0 tdi quattro technology pack",
+            "2.0 tdi technology pack",
+            "2.0 tfsi quattro",
+            "3.0 tdi premium plus s line",
+            "3.0 tdi quattro",
+            "3.0 tdi quattro premium plus",
+            "3.0 tdi quattro technology pack",
+            "3.0 tdi technology pk s line",
+            "30 tdi design edition",
+            "30 tdi premium edition",
+            "30 tdi quattro premium",
+            "30 tdi sports edition",
+            "35 tdi premium plus",
+            "35 tdi technology",
+            "40 tdi premium plus",
+            "40 tdi technology",
+            "45 tfsi premium plus",
+            "45 tfsi technology"
+          ]
+        },
+        "Q7": {
+          "trim": [
+            "3.0 tdi",
+            "3.0 tdi premium",
+            "3.0 tdi premium plus",
+            "3.0 tdi quattro",
+            "3.0 tdi quattro premium plus",
+            "3.0 tdi quattro technology pack",
+            "3.0 tfsi quattro",
+            "3.0 tfsi quattro premium plus",
+            "3.6 fsi quattro",
+            "35 tdi premium",
+            "35 tdi premium + sunroof",
+            "35 tdi premium plus",
+            "35 tdi quattro premium plus",
+            "35 tdi quattro technology pack",
+            "4.2 fsi quattro",
+            "4.2 tdi quattro",
+            "4.2 tdi quattro technology pack",
+            "4.2 tdi technology",
+            "40 tfsi premium plus",
+            "40 tfsi technology pack",
+            "45 tdi premium plus",
+            "45 tdi quattro",
+            "45 tdi technology pack",
+            "45 tfsi premium plus",
+            "45 tfsi technology pack",
+            "lifestyle edition"
+          ]
+        },
+        "Q8": {
+          "trim": [
+            "55 tfsi quattro"
+          ]
+        },
+        "RS 7 Sportback": {
+          "trim": [
+            "4.0 tfsi performance",
+            "4.0 tfsi quattro",
+            "4.0 tfsi quattro tiptronic"
+          ]
+        },
+        "RS Q8": {
+          "trim": [
+            "4.0l tfsi"
+          ]
+        },
+        "RS7": {
+          "trim": [
+            "sportback 4.0l tfsi"
+          ]
+        },
+        "S6": {
+          "trim": [
+            "4.0 tfsi"
+          ]
+        },
+        "SQ7": {
+          "trim": [
+            "4.0 tdi v8 quattro"
+          ]
+        },
+        "TT": {
+          "trim": [
+            "2.0 tfsi"
+          ]
+        }
+      }
+    },
+    "BMW": {
+      "model": {
+        "1 Series": {
+          "trim": [
+            "116i",
+            "118d",
+            "118d hatchback",
+            "118d sport line"
+          ]
+        },
+        "3 Series": {
+          "trim": [
+            "320 d highline",
+            "320d",
+            "320d edition sport",
+            "320d highline",
+            "320d luxury line",
+            "320d luxury line bs6",
+            "320d m sport",
+            "320d prestige",
+            "320d sport",
+            "320d sport bs6",
+            "320d sport line",
+            "320d sport shadow edition",
+            "320i",
+            "320i luxury line",
+            "320i prestige",
+            "325i",
+            "328i",
+            "328i sport line",
+            "328i sport plus",
+            "330d",
+            "330d convertible",
+            "330i",
+            "330i m sport",
+            "330i m sport bs6",
+            "330i m sport shadow edition",
+            "330i sport bs6",
+            "330i sport line"
+          ]
+        },
+        "3 Series GT": {
+          "trim": [
+            "320d luxury line",
+            "320d sport",
+            "320d sport line",
+            "330i luxury line",
+            "330i m sport",
+            "330i m sport bs6"
+          ]
+        },
+        "4 Series": {
+          "trim": [
+            "petrol"
+          ]
+        },
+        "5 Series": {
+          "trim": [
+            " 525d luxury plus",
+            "520 d 2.0",
+            "520d",
+            "520d luxury line",
+            "520d luxury line bs6",
+            "520d m sport",
+            "520d modern line",
+            "520d prestige",
+            "520d prestige plus",
+            "520d sport line",
+            "520i",
+            "520i luxury line",
+            "523i",
+            "525d",
+            "525d 3.0",
+            "525d luxury",
+            "525i",
+            "530 d 3.0",
+            "530 d highline",
+            "530d",
+            "530d highline",
+            "530d m sport",
+            "530d m sport bs6",
+            "530i",
+            "530i m sport",
+            "530i m sport bs6",
+            "530i sport bs6",
+            "530i sport line"
+          ]
+        },
+        "5 SERIES GT": {
+          "trim": [
+            "530 d le",
+            "530d"
+          ]
+        },
+        "6 Series": {
+          "trim": [
+            "640d design pure",
+            "640d design pure experience",
+            "640d eminence",
+            "650i"
+          ]
+        },
+        "6 Series GT": {
+          "trim": [
+            "620d luxury line",
+            "620d luxury line bs6",
+            "630d luxury line",
+            "630d m sport",
+            "630d m sport bs6",
+            "630i luxury line",
+            "630i luxury line bs6",
+            "630i sport line"
+          ]
+        },
+        "7 Series": {
+          "trim": [
+            "730 ld signature",
+            "730l d",
+            "730ld",
+            "730ld design pure excellence",
+            "730ld design pure excellence signature",
+            "730ld dpe",
+            "730ld dpe (cbu)",
+            "730ld eminence",
+            "730ld m sport",
+            "740li",
+            "740li design pure excellence signature",
+            "740li dpe signature bs6",
+            "745le xdrive bs6",
+            "745li",
+            "750li",
+            "750li design pure excellence (cbu)",
+            "750li dpe",
+            "750li m sport",
+            "760li",
+            "activehybrid l",
+            "m760li xdrive",
+            "m760li xdrive bs6"
+          ]
+        },
+        "M Series": {
+          "trim": [
+            "m3 sedan",
+            "m5 sedan"
+          ]
+        },
+        "X1": {
+          "trim": [
+            "sdrive 20d h",
+            "sdrive 20i sportx bs6",
+            "sdrive18i",
+            "sdrive20d",
+            "sdrive20d expedition",
+            "sdrive20d m sport",
+            "sdrive20d m sport bs6",
+            "sdrive20d sport line",
+            "sdrive20d xline",
+            "sdrive20d xline bs6",
+            "sdrive20i xline",
+            "sdrive20i xline bs6",
+            "xdrive20d m sport",
+            "xdrive20d xline"
+          ]
+        },
+        "X3": {
+          "trim": [
+            "2.5si",
+            "sdrive20d xline",
+            "xdrive 20d",
+            "xdrive 20d expedition",
+            "xdrive 20d luxury line",
+            "xdrive 20d xline",
+            "xdrive 28i xline",
+            "xdrive 30d",
+            "xdrive 30d m sport",
+            "xdrive 30i luxury line",
+            "xdrive 30i luxury line bs6",
+            "xdrive20d advantage"
+          ]
+        },
+        "X3 M": {
+          "trim": [
+            "petrol"
+          ]
+        },
+        "X4": {
+          "trim": [
+            "xdrive20d m sport x",
+            "xdrive30d m sport x",
+            "xdrive30i m sport x",
+            "xdrive30i m sport x bs6"
+          ]
+        },
+        "X5": {
+          "trim": [
+            "3.0 d",
+            "3.0d",
+            "4.8i",
+            "m",
+            "xdrive 30 d",
+            "xdrive 30d",
+            "xdrive 30d expedition",
+            "xdrive30d design pure experience (5 seater)",
+            "xdrive30d design pure experience (7 seater)",
+            "xdrive30d expedition",
+            "xdrive30d m sport",
+            "xdrive30d pure experience (5 seater)",
+            "xdrive30d pure experience (7 seater)",
+            "xdrive30d sport",
+            "xdrive30d xline",
+            "xdrive35i pure experience (5 seater)",
+            "xdrive40i m sport",
+            "xdrive40i m sport bs6"
+          ]
+        },
+        "X6": {
+          "trim": [
+            "35i m sport",
+            "m coupe",
+            "xdrive 30d",
+            "xdrive40d expedition",
+            "xdrive40d m sport"
+          ]
+        },
+        "X7": {
+          "trim": [
+            "xdrive 40i",
+            "xdrive 40i bs6",
+            "xdrive30d dpe",
+            "xdrive30d dpe signature"
+          ]
+        },
+        "Z4": {
+          "trim": [
+            "sdrive 35i",
+            "sdrive 35i dpt",
+            "xdrive 30d expedition"
+          ]
+        }
+      }
+    },
+    "Bajaj": {
+      "model": {
+        "Qute RE60": {
+          "trim": [
+            "petrol"
+          ]
+        }
+      }
+    },
+    "Bentley": {
+      "model": {
+        "Arnage": {
+          "trim": [
+            "r"
+          ]
+        },
+        "Bentayga": {
+          "trim": [
+            "v8 petrol",
+            "w12"
+          ]
+        },
+        "Continental Flying Spur": {
+          "trim": [
+            "v8",
+            "w12"
+          ]
+        },
+        "Continental GT": {
+          "trim": [
+            "w12"
+          ]
+        },
+        "Flying Spur": {
+          "trim": [
+            "v8",
+            "w12"
+          ]
+        },
+        "Mulsanne": {
+          "trim": [
+            "6.8",
+            "v8"
+          ]
+        }
+      }
+    },
+    "Bugatti": {
+      "model": {}
+    },
+    "Caterham": {
+      "model": {}
+    },
+    "Chevrolet": {
+      "model": {
+        "Aveo": {
+          "trim": [
+            "1.4 cng",
+            "e 1.4",
+            "ls 1.4",
+            "ls 1.4 ltd",
+            "lt 1.4",
+            "lt 1.4 abs",
+            "lt 1.6",
+            "lt 1.6 abs",
+            "lt 1.6 opt"
+          ]
+        },
+        "AVEO U VA": {
+          "trim": [
+            "1.2",
+            "ls 1.2",
+            "ls 1.2 techno",
+            "lt 1.2",
+            "lt 1.2 abs",
+            "lt 1.2 abs airbag"
+          ]
+        },
+        "Beat": {
+          "trim": [
+            "ls diesel",
+            "ls lpg",
+            "ls petrol",
+            "lt diesel",
+            "lt lpg",
+            "lt opt diesel",
+            "lt opt petrol",
+            "lt petrol",
+            "ltz diesel",
+            "ltz petrol",
+            "ps diesel",
+            "ps petrol"
+          ]
+        },
+        "Captiva": {
+          "trim": [
+            "lt",
+            "ltz 2.2 mt 2wd",
+            "ltz awd 2.2",
+            "ltz awd at",
+            "ltz awd xtreme",
+            "xtreme"
+          ]
+        },
+        "Cruze": {
+          "trim": [
+            "2.0 lt mt",
+            "2.0 ltz at",
+            "2.0 ltz mt",
+            "lt",
+            "ltz",
+            "ltz at"
+          ]
+        },
+        "Enjoy": {
+          "trim": [
+            "1.3 ls 7 str",
+            "1.3 ls 8 str",
+            "1.3 lt 7 str",
+            "1.3 lt 8 str",
+            "1.3 ltz 7 str",
+            "1.3 ltz 8 str",
+            "1.3 tcdi ls 8 str",
+            "1.3 tcdi lt 7 str",
+            "1.3 tcdi lt 8 str",
+            "1.3 tcdi ltz 8 str",
+            "1.4 ls 7 str",
+            "1.4 ls 8 str",
+            "1.4 lt 7 str",
+            "1.4 lt 8 str",
+            "1.4 ltz 7 str",
+            "1.4 ltz 8 str"
+          ]
+        },
+        "Forester": {
+          "trim": [
+            "awd"
+          ]
+        },
+        "Optra": {
+          "trim": [
+            "elite 1.6",
+            "ls 1.6",
+            "ls 1.8",
+            "ls 1.8 at",
+            "ls elite 1.6",
+            "lt 1.8",
+            "lt 1.8 at",
+            "lt royale 1.6",
+            "platinum 1.6"
+          ]
+        },
+        "Optra Magnum": {
+          "trim": [
+            "ls 1.6",
+            "ls 2.0 tcdi",
+            "lt 1.6",
+            "lt 2.0 tcdi",
+            "max 1.6",
+            "max 2.0 tcdi"
+          ]
+        },
+        "Optra SRV": {
+          "trim": [
+            "1.6",
+            "1.6 opt"
+          ]
+        },
+        "Sail": {
+          "trim": [
+            "1.2 base",
+            "1.2 ls",
+            "1.2 ls abs",
+            "1.2 lt abs",
+            "1.3 base",
+            "1.3 ls",
+            "1.3 ls abs",
+            "1.3 lt abs",
+            "1.3 tcdi ls abs",
+            "lt"
+          ]
+        },
+        "Sail Hatchback": {
+          "trim": [
+            "1.2 ls",
+            "1.2 ls abs",
+            "1.2 lt abs",
+            "1.3 ls",
+            "1.3 tdci ls abs",
+            "base 1.2",
+            "base 1.3",
+            "lt abs 1.3"
+          ]
+        },
+        "Sail U-VA": {
+          "trim": [
+            "1.2 base",
+            "1.2 ls",
+            "1.2 ls abs",
+            "1.2 lt abs",
+            "1.3 ls",
+            "1.3 ls abs",
+            "1.3 lt abs",
+            "1.3 ps"
+          ]
+        },
+        "Spark": {
+          "trim": [
+            "e 1.0",
+            "ls 1.0",
+            "ls 1.0 bs-iv obdii",
+            "ls 1.0 lpg",
+            "ls 1.0 muzic",
+            "ls tdci",
+            "lt 1.0",
+            "lt 1.0 airbag",
+            "lt 1.0 bs-iv obdii",
+            "lt 1.0 lpg",
+            "lt 1.0 opt",
+            "ps 1.0",
+            "ps 1.0 lpg"
+          ]
+        },
+        "Tavera": {
+          "trim": [
+            "b1 10 str bs ii",
+            "b1 10 str bs iii",
+            "b1 7 str bs ii",
+            "b1 7 str bs iii",
+            "b2 8 str bs ii",
+            "b2 8 str bs iii",
+            "elite ls b3 10 str bs iii",
+            "elite ls b3 7 str bs iii",
+            "elite lt l2 bs ii",
+            "elite ss d1 bs ii",
+            "ls",
+            "ls 2.5",
+            "ls b3 10 str bs ii",
+            "ls b3 10 str bs iii",
+            "ls b3 7 str bs ii",
+            "ls b3 7 str bs iii",
+            "ls b4 7 str bs iii",
+            "lt l1 9 str bs ii",
+            "lt l1 9 str bs iii",
+            "lt l2 bs ii",
+            "lt l2 bs iii",
+            "neo 2",
+            "neo 3 10 str bs iii",
+            "neo 3 7 str bs iii",
+            "neo 3 7 str bs iv",
+            "neo 3 ls 10 str bs iv",
+            "neo 3 ls 7 str bs iv",
+            "neo 3 ls- 10 str bs-iii",
+            "neo 3 ls- 7(c) str bs-iii",
+            "neo 3 ls-9 str-bsiii",
+            "neo 3 lt 8 str bs iii",
+            "neo 3 lt 8 str bs iv",
+            "neo 3 lt 9 str bs iii",
+            "neo 3 lt 9 str bs iv",
+            "neo 3 max -9 str bs-iii",
+            "neo 3 max 10 str bs iii",
+            "neo 3 max 10 str bs iv",
+            "neo 3 max 7 str bs iii",
+            "neo ls b3 10 str bs iii",
+            "neo ls b3 7 str bs iii",
+            "neo ls b4 7 captain bs iii",
+            "neo ls b4 7 str bs iii",
+            "neo lt l 7 str bs iii",
+            "neo lt l 9 str bs iii",
+            "neo ss d1 7 str bs iii",
+            "neo ss d1 8 str bs iii",
+            "ny b1 10 str bs iii",
+            "ny b1 7 str bs ii",
+            "ny b1 7 str bs iii",
+            "ny b2 10 str bs ii",
+            "ny b2 10 str bs iii",
+            "ny b2 7 str bs ii",
+            "ny b2 7 str bs iii",
+            "ny elite ls b3 10 str bs ii",
+            "ny elite ls b3 10 str bs iii",
+            "ny elite ls b3 7 str bs ii",
+            "ny elite lt l2 bs ii",
+            "ny elite ss d1 bs ii",
+            "ny elite ss d1 bs iii",
+            "ss d1 bs ii",
+            "ss d1 bs iii"
+          ]
+        },
+        "Trailblazer": {
+          "trim": [
+            "ltz at"
+          ]
+        }
+      }
+    },
+    "Chrysler": {
+      "model": {
+        "300": {
+          "trim": [
+            "limited awd",
+            "limited rwd",
+            "s awd",
+            "s rwd",
+            "touring awd",
+            "touring rwd"
+          ]
+        },
+        "300C SRT": {
+          "trim": [
+            "crd"
+          ]
+        }
+      }
+    },
+    "Citroen": {
+      "model": {
+        "C5 Aircross": {
+          "trim": [
+            "petrol"
+          ]
+        }
+      }
+    },
+    "DC": {
+      "model": {}
+    },
+    "Daewoo": {
+      "model": {
+        "Cielo": {
+          "trim": [
+            "gle",
+            "gle at",
+            "glx",
+            "glx at"
+          ]
+        },
+        "Matiz": {
+          "trim": [
+            "sa",
+            "sd",
+            "se",
+            "sg",
+            "sp",
+            "ss"
+          ]
+        },
+        "Nexia": {
+          "trim": [
+            "deluxe"
+          ]
+        }
+      }
+    },
+    "Datsun": {
+      "model": {
+        "GO": {
+          "trim": [
+            "a",
+            "a (o) bs6",
+            "a bs6",
+            "a eps",
+            "a opt",
+            "anniversary edition",
+            "d",
+            "d bs6",
+            "d1",
+            "remix limited edition",
+            "style edition",
+            "t",
+            "t (o)",
+            "t (o) bs6",
+            "t (o) cvt",
+            "t (o) cvt bs6",
+            "t (o) w/vdc",
+            "t bs6",
+            "t cvt",
+            "t cvt bs6",
+            "t w/vdc"
+          ]
+        },
+        "Go Plus": {
+          "trim": [
+            "a",
+            "a (o)",
+            "a (o) bs6",
+            "a bs6",
+            "a eps",
+            "active multijet",
+            "anniversary edition",
+            "d",
+            "d bs6",
+            "d1",
+            "remix limited edition",
+            "style edition",
+            "t",
+            "t (o)",
+            "t (o) bs6",
+            "t (o) cvt bs6",
+            "t (o) w/vdc",
+            "t bs6",
+            "t cvt",
+            "t cvt bs6",
+            "t w/vdc",
+            "t(o) cvt"
+          ]
+        },
+        "Redi-GO": {
+          "trim": [
+            "1.0 s",
+            "1.0 s amt",
+            "1.0 t (o)",
+            "1.0 t (o) amt",
+            "1.0 t (o) amt bs6",
+            "1.0 t (o) bs6",
+            "a",
+            "a bs6",
+            "d",
+            "d bs6",
+            "gold limited edition",
+            "s",
+            "sport",
+            "t",
+            "t (o)",
+            "t (o) bs6",
+            "t bs6"
+          ]
+        }
+      }
+    },
+    "Devel": {
+      "model": {}
+    },
+    "Eicher Polaris": {
+      "model": {
+        "Multix": {
+          "trim": [
+            "ax+"
+          ]
+        }
+      }
+    },
+    "Ferrari": {
+      "model": {}
+    },
+    "Fiat": {
+      "model": {
+        "500": {
+          "trim": [
+            "sport"
+          ]
+        },
+        "Abarth Punto": {
+          "trim": [
+            "t-jet 1.4",
+            "t-jet 1.4 abarth"
+          ]
+        },
+        "Argo": {
+          "trim": [
+            "petrol"
+          ]
+        },
+        "Cronos": {
+          "trim": [
+            "diesel"
+          ]
+        },
+        "Grande Punto": {
+          "trim": [
+            "active 1.2",
+            "active 1.3",
+            "dynamic 1.2",
+            "dynamic 1.3",
+            "emotion 1.2",
+            "emotion 1.3",
+            "emotion 1.4",
+            "emotion pack 1.3",
+            "emotion pack 1.3 90 hp",
+            "emotion pack 1.4",
+            "sport 90bhp"
+          ]
+        },
+        "Linea": {
+          "trim": [
+            "1.3 multijet active",
+            "1.3 multijet dynamic",
+            "1.4 t-jet emotion",
+            "active 1.3",
+            "active 1.3l advanced multijet diesel",
+            "active 1.4",
+            "active t-jet",
+            "dynamic",
+            "dynamic 1.3",
+            "dynamic pk 1.3 mjd",
+            "dynamic t-jet",
+            "emotion 1.3",
+            "emotion 1.3 l advanced multijet",
+            "emotion 1.4",
+            "emotion 1.4 lt jet",
+            "emotion multijet 1.3",
+            "emotion pk 1.3 mjd",
+            "emotion pk 1.4",
+            "emotion t-jet",
+            "emotion t-jet 1.4"
+          ]
+        },
+        "Linea Classic": {
+          "trim": [
+            "1.3 l multijet classic",
+            "1.3 l multijet classic plus",
+            "1.3 multijet",
+            "1.4 l p classic"
+          ]
+        },
+        "Palio": {
+          "trim": [
+            "1.2 el ps",
+            "1.6 gtx"
+          ]
+        },
+        "Palio Adventure": {
+          "trim": [
+            "sport 1.6"
+          ]
+        },
+        "Palio NV": {
+          "trim": [
+            "1.2 el",
+            "1.2 el ps",
+            "1.2 elx",
+            "1.6 sport"
+          ]
+        },
+        "Palio Stile": {
+          "trim": [
+            "sd 1.3",
+            "sde 1.3",
+            "sdx 1.3",
+            "sl 1.1",
+            "sle 1.1",
+            "slx 1.1",
+            "sport 1.6"
+          ]
+        },
+        "Petra": {
+          "trim": [
+            "el 1.2",
+            "el 1.6 ps",
+            "elx 1.2 ps",
+            "elx 1.6 ps"
+          ]
+        },
+        "Petra D": {
+          "trim": [
+            "el 1.9 ps",
+            "elx 1.9 ps"
+          ]
+        },
+        "Punto": {
+          "trim": [
+            "active 1.3",
+            "dynamic 1.3"
+          ]
+        },
+        "Punto Evo": {
+          "trim": [
+            "1.3 sportivo",
+            "90 hp 1.3 sports",
+            "active 1.2",
+            "active multijet 1.3",
+            "active multijet 1.3 90 hp",
+            "dynamic 1.2",
+            "dynamic multijet 1.3",
+            "dynamic multijet 1.3 90 hp",
+            "emotion 1.4",
+            "emotion multijet 1.3",
+            "emotion multijet 1.3 90 hp",
+            "multijet 1.3 90 hp",
+            "pure 1.2",
+            "pure 1.3"
+          ]
+        },
+        "Punto Pure": {
+          "trim": [
+            "1.2 petrol",
+            "1.3 diesel"
+          ]
+        },
+        "Siena": {
+          "trim": [
+            "el 1.7 ps",
+            "mastero 1.6 sp"
+          ]
+        },
+        "Uno": {
+          "trim": [
+            "diesel",
+            "diesel ac",
+            "el 1.2 ac",
+            "elx 1.2 ac",
+            "elx 1.7 ac",
+            "petrol",
+            "petrol ac",
+            "trend 1.2"
+          ]
+        }
+      }
+    },
+    "Force": {
+      "model": {
+        "Cruiser": {
+          "trim": [
+            "classic dlx",
+            "gama"
+          ]
+        },
+        "Gurkha": {
+          "trim": [
+            "hard top 4wd",
+            "soft top 4x2",
+            "soft top 4x4",
+            "xpedition",
+            "xplorer"
+          ]
+        },
+        "One": {
+          "trim": [
+            "2.2",
+            "ex",
+            "ex 7 str",
+            "lx",
+            "lx 4x4 7 str",
+            "lx abs 7 str",
+            "sx 6 str",
+            "sx 7 str",
+            "sx abs 7 str"
+          ]
+        }
+      }
+    },
+    "Ford": {
+      "model": {
+        "Aspire": {
+          "trim": [
+            "ambiente 1.2 ti-vct",
+            "ambiente 1.2 ti-vct abs",
+            "ambiente 1.2 ti-vct bs6",
+            "ambiente 1.5 tdci",
+            "ambiente 1.5 tdci abs",
+            "titanium 1.2 ti-vct",
+            "titanium 1.2 ti-vct bs6",
+            "titanium 1.2 ti-vct opt",
+            "titanium 1.2 ti-vct sports edition",
+            "titanium 1.5 tdci",
+            "titanium 1.5 tdci bs6",
+            "titanium 1.5 tdci opt",
+            "titanium 1.5 tdci sports edition",
+            "titanium 1.5 ti-vct at",
+            "titanium blu 1.2 ti-vct",
+            "titanium blu 1.5 tdci",
+            "titanium plus 1.2 ti-vct",
+            "titanium plus 1.2 ti-vct bs6",
+            "titanium plus 1.5 tdci",
+            "titanium plus 1.5 tdci bs6",
+            "trend 1.2 ti-vct",
+            "trend 1.2 ti-vct bs6",
+            "trend 1.5 tdci",
+            "trend 1.5 tdci bs6",
+            "trend plus 1.2 ti-vct",
+            "trend plus 1.5 tdci",
+            "trend plus cng"
+          ]
+        },
+        "EcoSport": {
+          "trim": [
+            "1.0l petrol trend plus",
+            "1.5 dv5 mt ambiente",
+            "1.5 dv5 mt titanium",
+            "1.5 dv5 mt titanium optional",
+            "1.5 dv5 mt trend",
+            "1.5 tdci platinum edition",
+            "1.5 ti vct at signature",
+            "ambiente 1.5 tdci",
+            "ambiente 1.5 ti vct",
+            "ambiente 1.5l tdci",
+            "ambiente 1.5l tdci bs6",
+            "ambiente 1.5l ti-vct",
+            "ambiente 1.5l ti-vct bs6",
+            "platinum edition diesel",
+            "platinum edition petrol",
+            "s diesel",
+            "s petrol",
+            "signature 1.5l tdci",
+            "signature 1.5l ti-vct",
+            "thunder edition diesel bs6",
+            "thunder edition petrol bs6",
+            "titanium + 1.5l tdci bs6",
+            "titanium + 1.5l ti-vct",
+            "titanium + 1.5l ti-vct at",
+            "titanium + 1.5l ti-vct at bs6",
+            "titanium + 1.5l ti-vct bs6",
+            "titanium + mt sports bs6",
+            "titanium + mt sports diesel bs6",
+            "titanium 1.0 ecoboost",
+            "titanium 1.0 ecoboost opt",
+            "titanium 1.5 tdci",
+            "titanium 1.5 tdci opt",
+            "titanium 1.5 ti vct at",
+            "titanium 1.5l tdci",
+            "titanium 1.5l tdci black edition",
+            "titanium 1.5l tdci bs6",
+            "titanium 1.5l ti-vct",
+            "titanium 1.5l ti-vct at",
+            "titanium 1.5l ti-vct black edition",
+            "titanium 1.5l ti-vct black edition at",
+            "titanium 1.5l ti-vct bs6",
+            "titanium+ 1.0l ecoboost",
+            "titanium+ 1.0l ecoboost black edition",
+            "titanium+ 1.5l tdci",
+            "titanium+ 1.5l tdci black edition",
+            "trend + 1.5l ti-vct at",
+            "trend 1.5l tdci",
+            "trend 1.5l tdci bs6",
+            "trend 1.5l ti-vct",
+            "trend 1.5l ti-vct bs6",
+            "trend+ 1.0 ecoboost",
+            "trend+ 1.0l ecoboost black edition",
+            "trend+ 1.5l tdci",
+            "trend+ 1.5l tdci black edition"
+          ]
+        },
+        "Endeavour": {
+          "trim": [
+            "2.5l 4x2",
+            "2.5l 4x2 mt",
+            "2.5l 4x4 mt",
+            "3.0l 4x2 at",
+            "3.0l 4x4 at",
+            "3.0l hurricane limited edition",
+            "3.0l thunder plus 4x4",
+            "4x2 at",
+            "4x4 xlt at",
+            "hurricane",
+            "hurricane le",
+            "sport 2.0 4x4 at bs6",
+            "thunder +",
+            "titanium 2.0 4x2 at bs6",
+            "titanium 2.2 4x2 at",
+            "titanium 2.2 4x2 mt",
+            "titanium 3.2 4x4 at",
+            "titanium plus 2.0 4x4 at bs6",
+            "titanium plus 2.2 4x2 at",
+            "titanium plus 3.2 4x4 at",
+            "trend 2.2 4x2 at",
+            "trend 2.2 4x2 mt",
+            "trend 2.2 4x4 mt",
+            "trend 3.2 4x4 at",
+            "xlt 4x2",
+            "xlt 4x4",
+            "xlt tdci 4x2",
+            "xlt tdci 4x2 ltd",
+            "xlt tdci 4x4"
+          ]
+        },
+        "Escort": {
+          "trim": [
+            "1.3 lx",
+            "orion 1.8",
+            "sport e 1.6",
+            "std 1.8"
+          ]
+        },
+        "Fiesta": {
+          "trim": [
+            "1.4 duratec exi limited edition",
+            "1.4 duratec zxi",
+            "1.4 duratorq tdci",
+            "1.5 tdci",
+            "1.5 tdci titanium",
+            "1.6 duratec zxi",
+            "ambiente",
+            "ambiente petrol",
+            "exi 1.4",
+            "exi 1.4 durasport",
+            "exi 1.4 duratec",
+            "exi 1.4 ltd",
+            "exi 1.4 tdci",
+            "exi 1.4 tdci ltd",
+            "exi 1.6",
+            "exi 1.6 duratec ltd",
+            "exi 1.6 ltd",
+            "s 1.6",
+            "style",
+            "style diesel",
+            "style petrol at",
+            "sxi 1.4 tdci",
+            "sxi 1.4 tdci abs",
+            "sxi 1.6",
+            "sxi 1.6 abs",
+            "titanium diesel",
+            "titanium plus diesel",
+            "titanium plus petrol",
+            "titanium plus petrol at",
+            "trend diesel",
+            "zxi 1.4",
+            "zxi 1.4 ltd",
+            "zxi 1.4 tdci",
+            "zxi 1.4 tdci abs",
+            "zxi 1.4 tdci ltd",
+            "zxi 1.6",
+            "zxi 1.6 abs",
+            "zxi 1.6 durasport",
+            "zxi 1.6 durasport abs"
+          ]
+        },
+        "Fiesta Classic": {
+          "trim": [
+            "1.4 duratec zxi",
+            "1.4 exi duratorq",
+            "1.4 exi tdci",
+            "1.4 sxi duratorq",
+            "1.4 tdci titanium",
+            "1.6 duratec clxi",
+            "1.6 exi",
+            "clxi 1.4 tdci",
+            "clxi 1.6",
+            "duratec clxi",
+            "duratec lxi",
+            "duratec titanium",
+            "duratorq exi",
+            "exi 1.4",
+            "lxi 1.4 tdci",
+            "lxi 1.6",
+            "sxi",
+            "sxi 1.4 tdci",
+            "sxi 1.6"
+          ]
+        },
+        "Figo": {
+          "trim": [
+            "1.2p ambiente mt",
+            "1.2p base mt",
+            "1.2p titanium mt",
+            "1.2p titanium plus mt",
+            "1.2p trend mt",
+            "1.2p trend plus mt",
+            "1.4 tdci titanium",
+            "1.4 tdci zxi",
+            "1.5 tcdi ambiente",
+            "1.5 tcdi titanium",
+            "1.5 tdci titanium",
+            "1.5 titanium mt",
+            "1.5 trend plus",
+            "1.5d ambiente mt",
+            "1.5d base mt",
+            "1.5d titanium mt",
+            "1.5d titanium plus mt",
+            "1.5d trend mt",
+            "1.5p titanium at",
+            "ambiente  1.5 tdci",
+            "ambiente 1.2 ti-vct",
+            "ambiente 1.2 ti-vct abs",
+            "ambiente 1.2 ti-vct bs6",
+            "ambiente 1.5 tdci abs",
+            "base 1.2 ti-vct",
+            "base 1.5 tdci",
+            "duratec lxi",
+            "duratec lxi 1.2",
+            "duratec titanium 1.2",
+            "duratec zxi",
+            "duratorq diesel exi 1.4",
+            "duratorq diesel lxi 1.4",
+            "duratorq exi",
+            "duratorq exi 1.4",
+            "duratorq titanium 1.4",
+            "duratorq zxi",
+            "duratorq zxi 1.4",
+            "exi duratec 1.2",
+            "exi duratorq 1.4",
+            "lxi duratec 1.2",
+            "lxi duratorq 1.4",
+            "sports edition 1.2 ti-vct",
+            "sports edition 1.5 tdci",
+            "titanium 1.2 ti+ac0-vct",
+            "titanium 1.2 ti-vct",
+            "titanium 1.2 ti-vct bs6",
+            "titanium 1.2 ti-vct opt",
+            "titanium 1.2 ti-vct sports edition",
+            "titanium 1.5 tdci bs6",
+            "titanium 1.5 tdci opt",
+            "titanium 1.5 tdci sports edition",
+            "titanium 1.5 ti-vct at",
+            "titanium blu 1.2 ti-vct",
+            "titanium blu 1.2 ti-vct bs6",
+            "titanium blu 1.5 tdci",
+            "titanium blu 1.5 tdci bs6",
+            "titanium plus 1.2 ti+ac0-vct",
+            "titanium plus 1.2 ti-vct",
+            "titanium plus 1.5 tdci",
+            "trend 1.2 ti+ac0-vct",
+            "trend 1.2 ti-vct",
+            "trend 1.2 ti-vct bs6",
+            "trend 1.5 tdci",
+            "trend 1.5 tdci bs6",
+            "trend 1.5l tdci",
+            "zxi duratec 1.2",
+            "zxi duratorq 1.4"
+          ]
+        },
+        "Freestyle": {
+          "trim": [
+            "ambiente 1.2 ti-vct",
+            "ambiente 1.2 ti-vct bs6",
+            "ambiente 1.5 tdci",
+            "titanium 1.2 ti-vct",
+            "titanium 1.2 ti-vct bs6",
+            "titanium 1.5 tdci",
+            "titanium 1.5 tdci bs6",
+            "titanium plus 1.2 ti-vct",
+            "titanium plus 1.2 ti-vct bs6",
+            "titanium plus 1.5 tdci",
+            "titanium plus 1.5 tdci bs6",
+            "trend 1.2 ti-vct",
+            "trend 1.5 tdci",
+            "trend plus 1.2 ti-vct",
+            "trend plus 1.2 ti-vct bs6",
+            "trend plus 1.5 tdci",
+            "trend plus 1.5 tdci bs6"
+          ]
+        },
+        "Fusion": {
+          "trim": [
+            "1.4 tdci diesel",
+            "1.6 duratec petrol ",
+            "1.6 petrol",
+            "plus",
+            "plus petrol",
+            "plus with abs"
+          ]
+        },
+        "Ikon": {
+          "trim": [
+            "1.3 clxi",
+            "1.3 clxi nxt",
+            "1.3 clxi nxt finesse",
+            "1.3 exi",
+            "1.3 exi nxt",
+            "1.3 flair",
+            "1.3 flair josh 100",
+            "1.3 iris",
+            "1.3 lxi nxt",
+            "1.3l rocam flair",
+            "1.4 duratorq tdci",
+            "1.4 zxi",
+            "1.6 clxi",
+            "1.6 exi",
+            "1.6 exi josh 100\u00a0 ",
+            "1.6 exi nxt",
+            "1.6 nxt",
+            "1.6 rally sport",
+            "1.6 sxi",
+            "1.6 sxi nxt",
+            "1.6 zxi",
+            "1.6 zxi josh 100 ",
+            "1.6 zxi nxt",
+            "1.6 zxi nxt josh 100",
+            "1.8 exi",
+            "1.8 exi nxt",
+            "1.8 sxi",
+            "1.8 sxi nxt",
+            "1.8 zxi",
+            "1.8 zxi nxt",
+            "ikool 1.4 tdci",
+            "ikool dura torq 1.4 tdi",
+            "ikool rocam 1.3",
+            "rocam 1.3"
+          ]
+        },
+        "Mondeo": {
+          "trim": [
+            "duratec he",
+            "duratorq di",
+            "ghia duratec"
+          ]
+        }
+      }
+    },
+    "GWM": {
+      "model": {
+        "Haval F5": {
+          "trim": [
+            "petrol"
+          ]
+        }
+      }
+    },
+    "HM": {
+      "model": {
+        "Ambassador": {
+          "trim": [
+            "1.8 mpfi",
+            "ambassador 1.8 cng",
+            "avigo 1800 isz mpfi",
+            "avigo 2000 dsz",
+            "classic 1500 dsl",
+            "classic 1500 dsl ac",
+            "classic 1800 isz ac",
+            "classic 1800 isz mpfi",
+            "classic 1800 isz mpfi ac",
+            "classic 1800 isz mpfi ac ps",
+            "classic 2000 dsz",
+            "classic 2000 dsz ac",
+            "classic 2000 dsz ac ps",
+            "classic nova deluxe",
+            "classic nova diesel",
+            "classic nova petrol",
+            "grand 1800 isz cng",
+            "grand 1800 isz mpfi",
+            "grand 1800 isz mpfi pw cl cng",
+            "grand 2000 dsz",
+            "nova diesel"
+          ]
+        },
+        "Contessa": {
+          "trim": [
+            "1.8 gl classic",
+            "1.8 glx",
+            "2.0 dsl"
+          ]
+        }
+      }
+    },
+    "Haima": {
+      "model": {
+        "8S": {
+          "trim": [
+            "petrol"
+          ]
+        }
+      }
+    },
+    "Honda": {
+      "model": {
+        "Accord": {
+          "trim": [
+            "2.3 vti l at",
+            "2.3 vti l mt",
+            "2.3 vti mt",
+            "2.4 at",
+            "2.4 elegance at",
+            "2.4 elegance mt",
+            "2.4 i-vtec mt",
+            "2.4 inspire at",
+            "2.4 inspire mt",
+            "2.4 vti l at",
+            "2.4 vti l mt",
+            "3.0 v6",
+            "3.0 v6 at",
+            "3.5 v6",
+            "3.5 v6 inspire",
+            "hybrid",
+            "sv diesel"
+          ]
+        },
+        "Amaze": {
+          "trim": [
+            " 1.5 e i-dtec",
+            "1.2 e i-vtec",
+            "1.2 e i-vtec opt",
+            "1.2 e mt petrol bs6",
+            "1.2 ex i-vtec",
+            "1.2 s at i-vtec",
+            "1.2 s at i-vtec opt",
+            "1.2 s cvt petrol bs6",
+            "1.2 s cvt petrol special edition",
+            "1.2 s i-vtec",
+            "1.2 s i-vtec opt",
+            "1.2 s mt petrol bs6",
+            "1.2 s mt petrol special edition",
+            "1.2 sx i-vtec",
+            "1.2 v at i-vtec",
+            "1.2 v cvt petrol bs6",
+            "1.2 v i-vtec",
+            "1.2 v mt petrol bs6",
+            "1.2 vx at i-vtec",
+            "1.2 vx cvt petrol",
+            "1.2 vx cvt petrol bs6",
+            "1.2 vx i-vtec",
+            "1.2 vx i-vtec opt",
+            "1.2 vx mt petrol bs6",
+            "1.5 e i-dtec opt",
+            "1.5 e mt diesel bs6",
+            "1.5 ex i-dtec",
+            "1.5 s at i-dtec",
+            "1.5 s cvt diesel bs6",
+            "1.5 s cvt diesel special edition",
+            "1.5 s i-dtec",
+            "1.5 s i-dtec opt",
+            "1.5 s mt diesel bs6",
+            "1.5 s mt diesel special edition",
+            "1.5 sx i-dtec",
+            "1.5 v at i-dtec",
+            "1.5 v i-dtec",
+            "1.5 v mt diesel bs6",
+            "1.5 vx cvt diesel",
+            "1.5 vx cvt diesel bs6",
+            "1.5 vx i-dtec",
+            "1.5 vx i-dtec opt",
+            "1.5 vx mt diesel bs6",
+            "exclusive edition cvt diesel",
+            "exclusive edition cvt petrol",
+            "exclusive edition diesel",
+            "exclusive edition petrol",
+            "i-dtec privilege edition",
+            "i-vtec privilege edition",
+            "pride edition diesel",
+            "pride edition petrol",
+            "v cvt",
+            "vx mt exclusive edition diesel",
+            "vx mt petrol exclusive edition"
+          ]
+        },
+        "BR-V": {
+          "trim": [
+            "e diesel",
+            "e petrol",
+            "s diesel",
+            "s petrol",
+            "v cvt petrol",
+            "v diesel",
+            "v petrol",
+            "vx diesel",
+            "vx petrol"
+          ]
+        },
+        "Brio": {
+          "trim": [
+            "e mt",
+            "ex mt",
+            "exclusive edition",
+            "s at o",
+            "s mt",
+            "s mt o",
+            "v at",
+            "v mt",
+            "vx  mt",
+            "vx (o) at",
+            "vx (o) mt",
+            "vx at"
+          ]
+        },
+        "City": {
+          "trim": [
+            "1.3 dx",
+            "1.3 exi",
+            "1.3 lxi",
+            "1.5 corporate mt",
+            "1.5 e mt i-dtec",
+            "1.5 e mt i-vtec",
+            "1.5 exi",
+            "1.5 exi at",
+            "1.5 exi s",
+            "1.5 gxi",
+            "1.5 gxi cvt",
+            "1.5 s at",
+            "1.5 s elegance",
+            "1.5 s inspire",
+            "1.5 s mt",
+            "1.5 sv i-vtec",
+            "1.5 v at",
+            "1.5 v at sun roof",
+            "1.5 v elegance",
+            "1.5 v i-dtec exclusive",
+            "1.5 v i-vtec exclusive",
+            "1.5 v inspire",
+            "1.5 v mt",
+            "1.5 v mt sun roof",
+            "anniversary edition diesel",
+            "anniversary edition petrol",
+            "e i-dtec",
+            "e i-vtec",
+            "s i-dtec",
+            "s i-vtec",
+            "s mt cng",
+            "sv",
+            "sv at",
+            "sv cvt i-vtec",
+            "sv i-dtec",
+            "sv i-vtec bs6",
+            "sv mt diesel",
+            "sv mt petrol",
+            "v",
+            "v at petrol",
+            "v cvt i-vtec",
+            "v cvt i-vtec bs6",
+            "v i-dtec",
+            "v i-vtec",
+            "v i-vtec bs6",
+            "v mt avn",
+            "v mt cng",
+            "v mt diesel",
+            "vtec",
+            "vx",
+            "vx (o) bl i-dtec",
+            "vx (o) bl i-vtec",
+            "vx (o) i-vtec",
+            "vx (o) mt",
+            "vx (o) mt diesel",
+            "vx at",
+            "vx cvt",
+            "vx cvt i-vtec",
+            "vx cvt i-vtec bs6",
+            "vx i-dtec",
+            "vx i-dtec opt",
+            "vx i-vtec",
+            "vx i-vtec bs6",
+            "vx i-vtec opt",
+            "vx mt",
+            "vx(o) 1.5l i-dtec sunroof",
+            "zx cvt i-vtec",
+            "zx cvt i-vtec bs6",
+            "zx i-dtec",
+            "zx i-vtec",
+            "zx i-vtec bs6"
+          ]
+        },
+        "City 5th Generation": {
+          "trim": [
+            "v cvt petrol",
+            "v diesel",
+            "v petrol",
+            "vx cvt petrol",
+            "vx diesel",
+            "vx petrol",
+            "zx cvt petrol",
+            "zx diesel",
+            "zx petrol"
+          ]
+        },
+        "City ZX": {
+          "trim": [
+            "1.5 gxi cvt",
+            "cvt",
+            "exi",
+            "gxi",
+            "vtec",
+            "vtec plus"
+          ]
+        },
+        "Civic": {
+          "trim": [
+            "1.8 i-vtec",
+            "1.8 s mt",
+            "1.8 v",
+            "1.8 v at",
+            "1.8 v at elegance",
+            "1.8e mt",
+            "1.8s at",
+            "1.8v at sun roof",
+            "1.8v mt",
+            "1.8v mt sun roof",
+            "sport",
+            "v cvt i-vtec",
+            "v cvt i-vtec bs6",
+            "vx cvt i-vtec",
+            "vx cvt i-vtec bs6",
+            "vx i-dtec",
+            "vx i-dtec bs6",
+            "zx cvt i-vtec",
+            "zx cvt i-vtec bs6",
+            "zx i-dtec",
+            "zx i-dtec bs6"
+          ]
+        },
+        "Civic Hybrid": {
+          "trim": [
+            "cvt"
+          ]
+        },
+        "CR-V": {
+          "trim": [
+            " 2.0l 2wd at",
+            " 2.0l 2wd mt",
+            "1.6 2wd at ",
+            "1.6 awd at",
+            "2.0 at",
+            "2.0l 4wd at",
+            "2.4 at",
+            "2.4 mt",
+            "2.4l 2wd",
+            "2.4l 4wd at",
+            "2.4l 4wd at avn",
+            "2.4l 4wd avn",
+            "2.4l 4wd mt",
+            "2wd petrol cvt bs6"
+          ]
+        },
+        "HR-V": {
+          "trim": [
+            "1.8l s"
+          ]
+        },
+        "Jazz": {
+          "trim": [
+            "1.2 e i vtec",
+            "1.2 v i-vtec",
+            "active",
+            "base",
+            "e i-dtec",
+            "exclusive edition cvt",
+            "i-dtec privilege edition",
+            "i-vtec cvt privilege edition",
+            "i-vtec privilege edition",
+            "mode",
+            "s cvt i-vtec",
+            "s i-dtec",
+            "s i-vtec",
+            "select",
+            "sv i-dtec",
+            "sv i-vtec",
+            "v cvt i-vtec",
+            "v cvt i-vtec bs6",
+            "v i-dtec",
+            "v i-vtec",
+            "v i-vtec bs6",
+            "vx cvt i-vtec",
+            "vx cvt i-vtec bs6",
+            "vx i-dtec",
+            "vx i-vtec",
+            "vx i-vtec bs6",
+            "x",
+            "zx cvt i-vtec bs6",
+            "zx i-vtec bs6"
+          ]
+        },
+        "Mobilio": {
+          "trim": [
+            "e i-dtec",
+            "e i-vtec",
+            "rs i-dtec",
+            "rs i-dtec opt",
+            "s i-dtec",
+            "s i-vtec",
+            "v i-dtec",
+            "v i-dtec opt",
+            "v i-vtec",
+            "v i-vtec opt"
+          ]
+        }
+      }
+    },
+    "Hummer": {
+      "model": {
+        "H2": {
+          "trim": [
+            "base"
+          ]
+        },
+        "H3": {
+          "trim": [
+            "base"
+          ]
+        }
+      }
+    },
+    "Hyundai": {
+      "model": {
+        "Accent": {
+          "trim": [
+            "cng",
+            "crdi",
+            "dls",
+            "executive",
+            "executive cng",
+            "executive lpg",
+            "gl",
+            "gle",
+            "gle cng",
+            "gle ii",
+            "gls",
+            "gls 1.6",
+            "gls 1.6 abs",
+            "glx",
+            "gtx tornado",
+            "gvs",
+            "std",
+            "viva abs",
+            "viva base",
+            "viva crdi"
+          ]
+        },
+        "Aura": {
+          "trim": [
+            "e 1.2 petrol",
+            "s 1.2 amt diesel",
+            "s 1.2 amt petrol",
+            "s 1.2 cng petrol",
+            "s 1.2 diesel",
+            "s 1.2 petrol",
+            "sx 1.2 (o) diesel",
+            "sx 1.2 (o) petrol",
+            "sx 1.2 petrol",
+            "sx plus 1.0 petrol",
+            "sx plus 1.2 amt diesel",
+            "sx plus 1.2 amt petrol"
+          ]
+        },
+        "Carlino": {
+          "trim": [
+            "diesel"
+          ]
+        },
+        "Creta": {
+          "trim": [
+            "1.4 base",
+            "1.4 e+ diesel",
+            "1.4 s diesel",
+            "1.4 s+ diesel",
+            "1.6 base",
+            "1.6 e petrol",
+            "1.6 e+ petrol",
+            "1.6 s",
+            "1.6 s at diesel",
+            "1.6 s+ at diesel",
+            "1.6 sx at diesel",
+            "1.6 sx at petrol",
+            "1.6 sx diesel",
+            "1.6 sx diesel dual tone",
+            "1.6 sx opt diesel",
+            "1.6 sx opt petrol",
+            "1.6 sx petrol",
+            "1.6 sx petrol dual tone",
+            "1.6 sx+ at diesel",
+            "1.6 sx+ at petrol",
+            "1.6 sx+ diesel",
+            "1.6 sx+ diesel special edition",
+            "1.6 sx+ dual tone diesel",
+            "1.6 sx+ dual tone petrol",
+            "1.6 sx+ petrol",
+            "e 1.5 diesel bs6",
+            "e plus 1.6 crdi",
+            "ex 1.4 crdi",
+            "ex 1.5 diesel bs6",
+            "ex 1.5 petrol bs6",
+            "ex 1.6 crdi",
+            "ex 1.6 petrol",
+            "s 1.4 crdi",
+            "s 1.5 diesel bs6",
+            "s 1.5 petrol bs6",
+            "sx (o) 1.4 turbo 7 dct bs6",
+            "sx (o) 1.5 diesel at bs6",
+            "sx (o) 1.5 diesel bs6",
+            "sx (o) 1.5 petrol cvt bs6",
+            "sx 1.4 turbo 7 dct bs6",
+            "sx 1.5 diesel at bs6",
+            "sx 1.5 diesel bs6",
+            "sx 1.5 petrol bs6",
+            "sx 1.5 petrol cvt bs6",
+            "sx 1.6 (o) executive crdi",
+            "sx 1.6 (o) executive petrol"
+          ]
+        },
+        "Creta 7 Seater": {
+          "trim": [
+            "petrol"
+          ]
+        },
+        "Elantra": {
+          "trim": [
+            "1.5 sx (o) at bs6",
+            "1.5 sx mt bs6",
+            "1.6 base",
+            "1.6 s mt",
+            "1.6 sx (o)",
+            "1.6 sx (o) at",
+            "1.6 sx at",
+            "1.6 sx mt",
+            "1.8 s",
+            "1.8 sx at",
+            "1.8 sx mt",
+            "2.0 s mt",
+            "2.0 sx (o)",
+            "2.0 sx (o) at",
+            "2.0 sx (o) at bs6",
+            "2.0 sx at",
+            "2.0 sx at bs6",
+            "2.0 sx mt",
+            "2.0 sx mt bs6",
+            "crdi decontent",
+            "crdi leather",
+            "facelift",
+            "gls",
+            "gt"
+          ]
+        },
+        "Elite i20": {
+          "trim": [
+            "asta (o) 1.2 at",
+            "asta 1.2",
+            "asta 1.2 (o) bs6",
+            "asta 1.2 (o) cvt",
+            "asta 1.2 at",
+            "asta 1.2 dual tone",
+            "asta 1.2 opt",
+            "asta 1.4 crdi",
+            "asta 1.4 crdi dual tone",
+            "asta 1.4 crdi opt",
+            "era 1.2",
+            "era 1.4 crdi",
+            "magna 1.2",
+            "magna 1.4 at",
+            "magna 1.4 crdi",
+            "magna executive 1.2",
+            "magna executive 1.2 at",
+            "magna executive 1.4 crdi",
+            "magna plus 1.2\t",
+            "magna plus 1.2 bs6",
+            "magna plus 1.4 crdi",
+            "petrol",
+            "soprtz 1.2 opt",
+            "sportz 1.2",
+            "sportz 1.2 opt",
+            "sportz 1.2 special edition",
+            "sportz 1.4 crdi",
+            "sportz 1.4 special edition",
+            "sportz opt 1.4",
+            "sportz plus 1.2",
+            "sportz plus 1.2 bs6",
+            "sportz plus 1.2 cvt",
+            "sportz plus 1.2 dual tone",
+            "sportz plus 1.2 dual tone bs6",
+            "sportz plus 1.4 crdi",
+            "sportz plus 1.4 crdi dual tone"
+          ]
+        },
+        "EON": {
+          "trim": [
+            "1.0 kappa era +",
+            "1.0 kappa magna (o) airbag",
+            "1.0 kappa magna airbag",
+            "d-lite",
+            "d-lite (o)",
+            "d-lite +",
+            "d-lite + (o)",
+            "d-lite + airbag",
+            "d-lite + lpg",
+            "d-lite plus",
+            "era  plus",
+            "era +",
+            "era + (o)",
+            "era + airbag",
+            "era + lpg",
+            "era + lpg airbag",
+            "era + se",
+            "facelift",
+            "magna  plus",
+            "magna +",
+            "magna + (o)",
+            "magna + airbag",
+            "magna + lpg",
+            "magna + se",
+            "sportz"
+          ]
+        },
+        "Getz": {
+          "trim": [
+            "gl",
+            "gle",
+            "gls",
+            "gls abs",
+            "glx",
+            "gvs"
+          ]
+        },
+        "Getz Prime": {
+          "trim": [
+            "1.1 gle",
+            "1.1 gvs",
+            "1.1 gvs option",
+            "1.3 gls",
+            "1.3 glx",
+            "1.3 gvs",
+            "1.5 gvs crdi"
+          ]
+        },
+        "Grand i10": {
+          "trim": [
+            "1.2 sportz (o) at",
+            "asta 1.1 crdi",
+            "asta 1.1 crdi (o)",
+            "asta 1.2 kappa vtvt",
+            "asta 1.2 kappa vtvt (o)",
+            "asta at",
+            "asta at 1.2 kappa vtvt",
+            "asta at 1.2 kappa vtvt (o)",
+            "asta u2 1.2 crdi",
+            "era 1.1 crdi",
+            "era 1.2 kappa vtvt",
+            "era u2 1.2 crdi",
+            "facelift",
+            "magna",
+            "magna 1.0 kappa vtvt lpg",
+            "magna 1.1 crdi",
+            "magna 1.2 kappa vtvt",
+            "magna 1.2 kappa vtvt bs6",
+            "magna 1.2 kappa vtvt cng",
+            "magna at 1.2 kappa vtvt",
+            "magna crdi",
+            "magna u2 1.2 crdi",
+            "sports edition 1.2l kappa vtvt",
+            "sportz (o) at 1.2 kappa vtvt",
+            "sportz (o) mt 1.2 kappa vtvt",
+            "sportz (o) u2 1.2 crdi",
+            "sportz 1.1 crdi",
+            "sportz 1.1 crdi special edition",
+            "sportz 1.2 kappa vtvt",
+            "sportz 1.2 kappa vtvt bs6",
+            "sportz 1.2 kappa vtvt dual tone",
+            "sportz 1.2 kappa vtvt special edition",
+            "sportz at 1.2 kappa vtvt",
+            "sportz crdi",
+            "sportz u2 1.2 crdi"
+          ]
+        },
+        "Grand i10 Nios": {
+          "trim": [
+            "asta 1.2 kappa vtvt",
+            "asta 1.2 kappa vtvt bs6",
+            "asta amt 1.2 kappa vtvt bs6",
+            "asta u2 1.2 crdi",
+            "asta u2 1.2 crdi bs6",
+            "era 1.2 kappa vtvt",
+            "era 1.2 kappa vtvt bs6",
+            "magna 1.2 kappa vtvt",
+            "magna 1.2 kappa vtvt bs6",
+            "magna 1.2 kappa vtvt cng bs6",
+            "magna 1.2 kappa vtvt corporate edition",
+            "magna amt 1.2 kappa vtvt",
+            "magna amt 1.2 kappa vtvt bs6",
+            "magna amt 1.2 kappa vtvt corporate edition",
+            "magna u2 1.2 crdi",
+            "magna u2 1.2 crdi bs6",
+            "magna u2 1.2 crdi corporate edition",
+            "sportz 1.0 turbo gdi bs6",
+            "sportz 1.0 turbo gdi dual tone bs6",
+            "sportz 1.2 kappa vtvt",
+            "sportz 1.2 kappa vtvt bs6",
+            "sportz 1.2 kappa vtvt cng bs6",
+            "sportz 1.2 kappa vtvt dual tone",
+            "sportz 1.2 kappa vtvt dual tone bs6",
+            "sportz amt 1.2 crdi",
+            "sportz amt 1.2 crdi bs6",
+            "sportz amt 1.2 kappa vtvt",
+            "sportz amt 1.2 kappa vtvt bs6",
+            "sportz u2 1.2 crdi bs6"
+          ]
+        },
+        "Grand i10 Prime": {
+          "trim": [
+            "era t crdi",
+            "era t plus cng",
+            "era t plus crdi",
+            "era t plus vtvt",
+            "era t vtvt"
+          ]
+        },
+        "i10": {
+          "trim": [
+            "1.1l irde magna special edition",
+            "asta 1.2",
+            "asta 1.2 at",
+            "asta 1.2 at kappa2",
+            "asta 1.2 at with sunroof",
+            "asta 1.2 kappa2",
+            "d-lite",
+            "d-lite 1.1 irde2",
+            "era 1.1 irde2",
+            "era 1.1 lpg",
+            "magna",
+            "magna (o)",
+            "magna 1.1 irde2",
+            "magna 1.1 lpg",
+            "magna 1.2",
+            "magna 1.2 at",
+            "magna 1.2 kappa2",
+            "sportz 1.1 irde2",
+            "sportz 1.1 lpg",
+            "sportz 1.1 u2 crdi",
+            "sportz 1.2",
+            "sportz 1.2 at",
+            "sportz 1.2 at kappa2",
+            "sportz 1.2 kappa2",
+            "sportz 1.2 kappa2 (o)"
+          ]
+        },
+        "i20": {
+          "trim": [
+            "asta (o) 1.2",
+            "asta 1.0 (o) turbo dct petrol",
+            "asta 1.0 (o) turbo dct petrol dual tone",
+            "asta 1.0 turbo dct petrol",
+            "asta 1.0 turbo dct petrol dual tone",
+            "asta 1.0 turbo imt petrol",
+            "asta 1.0 turbo imt petrol dual tone",
+            "asta 1.2",
+            "asta 1.2 (o) with sunroof",
+            "asta 1.2 ivt petrol",
+            "asta 1.2 ivt petrol dual tone",
+            "asta 1.2 mt (o) petrol",
+            "asta 1.2 mt (o) petrol dual tone",
+            "asta 1.2 mt petrol",
+            "asta 1.2 mt petrol dual tone",
+            "asta 1.2 with avn",
+            "asta 1.4",
+            "asta 1.4 (o)",
+            "asta 1.4 (o) with sunroof",
+            "asta 1.4 at",
+            "asta 1.4 at (o)",
+            "asta 1.4 at with avn",
+            "asta 1.4 crdi",
+            "asta 1.4 crdi 6 speed",
+            "asta 1.4 with avn crdi 6 speed",
+            "asta 1.5 (o) mt diesel",
+            "asta 1.5 (o) mt diesel dual tone",
+            "era 1.2",
+            "era 1.2 bs-iv",
+            "era 1.4 crdi",
+            "era 1.4 crdi 6 speed bs-iv",
+            "magna (o) 1.4 crdi",
+            "magna 1.2",
+            "magna 1.2 (o)",
+            "magna 1.2 mt petrol",
+            "magna 1.4 crdi",
+            "magna 1.4 crdi 6 speed",
+            "magna 1.5 mt diesel",
+            "sportz 1.0 turbo imt petrol",
+            "sportz 1.0 turbo imt petrol dual tone",
+            "sportz 1.2",
+            "sportz 1.2 (o)",
+            "sportz 1.2 bs iv",
+            "sportz 1.2 ivt petrol",
+            "sportz 1.2 ivt petrol dual tone",
+            "sportz 1.2 mt petrol",
+            "sportz 1.2 mt petrol dual tone",
+            "sportz 1.4 (o)",
+            "sportz 1.4 crdi",
+            "sportz 1.4 crdi 6 speed (o)",
+            "sportz 1.4 crdi 6 speed bs-iv",
+            "sportz 1.5 mt diesel",
+            "sportz 1.5 mt diesel dual tone",
+            "sportz abs",
+            "sportz abs crdi",
+            "sportz at 1.4"
+          ]
+        },
+        "Palisade": {
+          "trim": [
+            "petrol"
+          ]
+        },
+        "Santa Fe": {
+          "trim": [
+            "2 wd at",
+            "2wd at",
+            "2wd mt",
+            "4wd at"
+          ]
+        },
+        "Santro": {
+          "trim": [
+            "asta",
+            "asta amt",
+            "asta amt bs6",
+            "asta bs6",
+            "d-lite",
+            "dx",
+            "era",
+            "era executive",
+            "era executive bs6",
+            "gls i euro i",
+            "gls i euro ii",
+            "gs",
+            "gs zip drive euro i",
+            "gs zip drive euro ii",
+            "gs zip plus",
+            "l1",
+            "l2",
+            "le",
+            "le zip plus",
+            "lp",
+            "lp euro ii",
+            "lp zip plus",
+            "ls",
+            "ls zip drive euro i",
+            "ls zip drive euro ii",
+            "ls zip plus",
+            "magna",
+            "magna amt",
+            "magna amt bs6",
+            "magna bs6",
+            "magna cng",
+            "magna cng bs6",
+            "sportz",
+            "sportz amt",
+            "sportz amt anniversary edition",
+            "sportz amt bs6",
+            "sportz amt se bs6",
+            "sportz anniversary edition",
+            "sportz bs6",
+            "sportz cng",
+            "sportz cng bs6",
+            "sportz se bs6",
+            "xg",
+            "xo",
+            "zip plus"
+          ]
+        },
+        "Santro Xing": {
+          "trim": [
+            "gl",
+            "gl cng",
+            "gl lpg",
+            "gl plus",
+            "gl plus cng",
+            "gl plus lpg",
+            "gls",
+            "gls (cng)",
+            "gls at",
+            "gls lpg",
+            "xe",
+            "xg",
+            "xg at",
+            "xg at erlx euro ii",
+            "xg at erlx euro iii",
+            "xg erlx euro ii",
+            "xk erlx euro ii",
+            "xk erlx euro iii",
+            "xk non ac erlx euro iii",
+            "xl",
+            "xl at",
+            "xl at erlx - euro ii",
+            "xl at erlx euro ii",
+            "xl at erlx euro iii",
+            "xl erlx euro ii",
+            "xl erlx euro iii",
+            "xo",
+            "xo erlx euro ii",
+            "xo erlx euro iii",
+            "xp",
+            "xs",
+            "xs erlx euro iii"
+          ]
+        },
+        "Sonata": {
+          "trim": [
+            "2.7 v6",
+            "gls",
+            "gold",
+            "s 20"
+          ]
+        },
+        "Sonata Embera": {
+          "trim": [
+            "2.0 crdi at",
+            "2.0 crdi mt",
+            "2.4 at",
+            "2.4 at fabric",
+            "2.4 at leather",
+            "2.4 mt"
+          ]
+        },
+        "Sonata Gold": {
+          "trim": [
+            "2.4 gdi at",
+            "gls",
+            "s 20"
+          ]
+        },
+        "Sonata Transform": {
+          "trim": [
+            "2.0 crdi at",
+            "2.0 crdi mt",
+            "2.4 vtvt"
+          ]
+        },
+        "Terracan": {
+          "trim": [
+            "crdi"
+          ]
+        },
+        "Tucson": {
+          "trim": [
+            "2wd at gl diesel",
+            "2wd at gl petrol",
+            "2wd at gls diesel",
+            "2wd at gls petrol",
+            "2wd mt diesel",
+            "2wd mt petrol",
+            "4wd at gls diesel",
+            "crdi",
+            "gl (o) 2wd at diesel",
+            "gl (o) 2wd at diesel bs6",
+            "gl (o) 2wd at petrol",
+            "gl (o) 2wd at petrol bs6",
+            "gls 2wd at diesel bs6",
+            "gls 2wd at petrol bs6",
+            "gls 4wd at diesel bs6"
+          ]
+        },
+        "Venue": {
+          "trim": [
+            "1.0 turbo gdi mt sx",
+            "e 1.2 petrol",
+            "e 1.2 petrol bs6",
+            "e 1.4 crdi",
+            "e 1.5 crdi bs6",
+            "s 1.0 at petrol",
+            "s 1.0 petrol",
+            "s 1.0 turbo bs6",
+            "s 1.0 turbo dct bs6",
+            "s 1.2 petrol",
+            "s 1.2 petrol bs6",
+            "s 1.4 crdi",
+            "s 1.5 crdi bs6",
+            "s plus 1.2 petrol bs6",
+            "sport sx (o) 1.0 turbo imt bs6",
+            "sport sx (o) 1.5 crdi bs6",
+            "sport sx 1.0 turbo imt bs6",
+            "sport sx 1.5 crdi bs6",
+            "sport sx plus 1.0 turbo dct bs6",
+            "sx (o) 1.0 turbo imt bs6",
+            "sx 1.0 (o) petrol",
+            "sx 1.0 (o) turbo bs6",
+            "sx 1.0 (o) turbo dual tone bs6",
+            "sx 1.0 dual tone petrol",
+            "sx 1.0 petrol",
+            "sx 1.0 turbo bs6",
+            "sx 1.0 turbo dct dual tone bs6",
+            "sx 1.0 turbo imt bs6",
+            "sx 1.4 (o) crdi",
+            "sx 1.4 crdi",
+            "sx 1.4 crdi dual tone",
+            "sx 1.5 (o) crdi bs6",
+            "sx 1.5 crdi bs6",
+            "sx 1.5 crdi dual tone bs6",
+            "sx plus (o) 1.0 at petrol",
+            "sx plus 1.0 at petrol",
+            "sx plus 1.0 turbo dct bs6",
+            "sx plus 1.0 turbo dct dual tone bs6",
+            "sx+ at"
+          ]
+        },
+        "Verna": {
+          "trim": [
+            "1.4 crdi",
+            "1.4 cx crdi mt",
+            "1.4 cx vtvt mt",
+            "1.4 gl vtvt mt",
+            "1.4 vtvt",
+            "1.4 vtvt e",
+            "1.4 vtvt ex",
+            "1.5 crdi gl",
+            "1.6 crdi e",
+            "1.6 crdi ex",
+            "1.6 crdi ex at",
+            "1.6 crdi s",
+            "1.6 crdi s at",
+            "1.6 crdi s option",
+            "1.6 crdi sx",
+            "1.6 crdi sx (o)",
+            "1.6 crdi sx (o) at",
+            "1.6 crdi sx plus at",
+            "1.6 ex vtvt",
+            "1.6 s",
+            "1.6 sx",
+            "1.6 sx crdi at",
+            "1.6 sx vtvt at",
+            "1.6 vtvt e",
+            "1.6 vtvt ex",
+            "1.6 vtvt ex at",
+            "1.6 vtvt s",
+            "1.6 vtvt s (o) at",
+            "1.6 vtvt s at",
+            "1.6 vtvt s(o)",
+            "1.6 vtvt sx",
+            "1.6 vtvt sx (o)",
+            "1.6 vtvt sx (o) at",
+            "1.6 vtvt sx at",
+            "1.6 xi",
+            "1.6 xxi",
+            "anniversary edition 1.6 crdi sx (o)",
+            "anniversary edition 1.6 vtvt sx (o)",
+            "anniversary edition 1.6 vtvt sx (o) at",
+            "cx",
+            "e 1.4 crdi",
+            "e 1.5 vtvt bs6",
+            "ex",
+            "ex 1.4 crdi",
+            "fluidic 1.4 crdi",
+            "fluidic 1.4 crdi cx",
+            "fluidic 1.4 crdi gl",
+            "fluidic 1.4 ex crdi",
+            "fluidic 1.4 vtvt",
+            "fluidic 1.4 vtvt cx",
+            "fluidic 1.4 vtvt gl",
+            "fluidic 1.6 crdi",
+            "fluidic 1.6 crdi ex",
+            "fluidic 1.6 crdi s",
+            "fluidic 1.6 crdi s (o)",
+            "fluidic 1.6 crdi sx",
+            "fluidic 1.6 crdi sx at",
+            "fluidic 1.6 crdi sx opt",
+            "fluidic 1.6 crdi sx opt at",
+            "fluidic 1.6 ex crdi",
+            "fluidic 1.6 ex crdi at",
+            "fluidic 1.6 s",
+            "fluidic 1.6 s (o) at",
+            "fluidic 1.6 s at",
+            "fluidic 1.6 sx crdi",
+            "fluidic 1.6 sx crdi opt",
+            "fluidic 1.6 sx crdi opt at",
+            "fluidic 1.6 sx vtvt",
+            "fluidic 1.6 sx vtvt at",
+            "fluidic 1.6 sx vtvt opt",
+            "fluidic 1.6 vtvt",
+            "fluidic 1.6 vtvt ex",
+            "fluidic 1.6 vtvt ex at",
+            "fluidic 1.6 vtvt sx",
+            "fluidic 1.6 vtvt sx at",
+            "fluidic 1.6 vtvt sx opt",
+            "fluidic 1.6 vtvt sx opt at",
+            "fluidic 4s 1.6 crdi s(o)",
+            "fluidic 4s 1.6 crdi sx",
+            "fluidic 4s 1.6 vtvt s (o) at",
+            "fluidic crdi 1.6 ex at",
+            "gl",
+            "s 1.5 vtvt bs6",
+            "s plus 1.5 crdi bs6",
+            "sx",
+            "sx (o) 1.0 turbo dct bs6",
+            "sx (o) 1.5 crdi at bs6",
+            "sx (o) 1.5 crdi bs6",
+            "sx (o) 1.5 vtvt bs6",
+            "sx (o) 1.5 vtvt ivt bs6",
+            "sx 1.5 crdi at bs6",
+            "sx 1.5 crdi bs6",
+            "sx 1.5 vtvt bs6",
+            "sx opt",
+            "sx opt at",
+            "sx plus 1.6 vtvt at",
+            "transform 1.5 crdi",
+            "transform 1.5 crdi audio",
+            "transform 1.5 sx at crdi",
+            "transform 1.5 sx crdi",
+            "transform 1.6 sx vtvt",
+            "transform 1.6 vtvt",
+            "transform 1.6 vtvt audio",
+            "vgt",
+            "vgt crdi",
+            "vgt crdi 1.5",
+            "vgt crdi abs",
+            "vgt crdi sx",
+            "vgt crdi sx 1.5",
+            "vgt crdi sx abs",
+            "vgt crdi sx at 1.5",
+            "vtvt 1.6",
+            "xi",
+            "xi abs",
+            "xxi",
+            "xxi abs"
+          ]
+        },
+        "Xcent": {
+          "trim": [
+            "1.2 sx",
+            "1.2 sx option",
+            "base 1.1 crdi",
+            "base 1.2",
+            "base 1.2 cng",
+            "e",
+            "e crdi",
+            "e plus",
+            "e+ crdi",
+            "s",
+            "s 1.1 crdi",
+            "s 1.1 crdi opt",
+            "s 1.1 crdi special edition",
+            "s 1.2",
+            "s 1.2 opt",
+            "s 1.2 special edition",
+            "s 1.2l kappa dual vtvt",
+            "s 1.2l kappa dual vtvt opt",
+            "s at",
+            "s at 1.2",
+            "s at 1.2 (o)",
+            "s crdi",
+            "sx",
+            "sx (o)",
+            "sx 1.1 crdi",
+            "sx 1.1 crdi (o)",
+            "sx at 1.2 opt",
+            "sx crdi",
+            "sx crdi (o)",
+            "t crdi",
+            "t plus"
+          ]
+        },
+        "Xcent Prime": {
+          "trim": [
+            "cng t plus",
+            "s cng",
+            "t plus",
+            "t+ crdi"
+          ]
+        }
+      }
+    },
+    "ICML": {
+      "model": {
+        "Extreme": {
+          "trim": [
+            "ambulance di ac bs iii",
+            "ambulance di non ac bsiii",
+            "di non ac 9seater bsiii",
+            "ld di non-ac 9seater bsiii",
+            "ld di ps ac 9seater bsiii",
+            "ld non-ac 9seater bsiv",
+            "ld ps ac 9seater bsiv",
+            "sd di 9seater bsiii",
+            "van bs iii non ac",
+            "winner crdfi non ac 9 seater bs iv",
+            "winner crdfi ps ac 9 seater bs iv",
+            "winner di ps ac 9 seater bs iii"
+          ]
+        },
+        "Rhino Rx": {
+          "trim": [
+            "delite crdfi 7 str bs iii",
+            "dlx",
+            "royale crdfi 8 str bs iv",
+            "rx winner di",
+            "rx xciter di",
+            "s1 non ac",
+            "winner crdfi 10 str bs iii ac",
+            "winner crdfi 9 str bs iii",
+            "winner crdfi 9 str bs iii ac",
+            "xciter 8 str bs iii",
+            "xciter 9 str bs iii",
+            "xciter crdfi 8 str bs iii"
+          ]
+        }
+      }
+    },
+    "Isuzu": {
+      "model": {
+        "D-Max V-Cross": {
+          "trim": [
+            "4x4",
+            "facelift"
+          ]
+        },
+        "MU-X": {
+          "trim": [
+            "4x2",
+            "4x4"
+          ]
+        },
+        "MU7": {
+          "trim": [
+            "base bs iii",
+            "base bs iv",
+            "high bs iii",
+            "high bs iv",
+            "premium at"
+          ]
+        }
+      }
+    },
+    "Jaguar": {
+      "model": {
+        "E-Pace": {
+          "trim": [
+            "diesel"
+          ]
+        },
+        "F-Pace": {
+          "trim": [
+            "first edition",
+            "prestige",
+            "prestige petrol",
+            "pure",
+            "r-sport"
+          ]
+        },
+        "XE": {
+          "trim": [
+            "portfolio",
+            "portfolio diesel",
+            "prestige",
+            "prestige diesel",
+            "pure",
+            "pure diesel",
+            "s diesel bs6",
+            "s petrol bs6",
+            "se diesel bs6",
+            "se petrol bs6"
+          ]
+        },
+        "XF": {
+          "trim": [
+            "2.0 prestige petrol bs6",
+            "2.2 diesel luxury",
+            "3.0 litre s premium",
+            "3.0 s",
+            "3.0l diesel premium luxury",
+            "5.0 v8 portfolio",
+            "portfolio diesel",
+            "portfolio petrol",
+            "prestige diesel",
+            "prestige petrol",
+            "pure diesel",
+            "s v6"
+          ]
+        },
+        "XJ": {
+          "trim": [
+            "3.0 diesel portfolio",
+            "3.0l diesel",
+            "3.0l portfolio",
+            "3.0l portfolio lwb",
+            "3.0l premium luxury",
+            "3.0l premium luxury lwb",
+            "50"
+          ]
+        },
+        "XJ L": {
+          "trim": [
+            "3.0 portfolio",
+            "3.0 premium luxury"
+          ]
+        }
+      }
+    },
+    "Jeep": {
+      "model": {
+        "Compass": {
+          "trim": [
+            "1.4l limited black pack 4x2 option pack (at) ",
+            "1.4l sports bedrock 4x2",
+            "2.0l limited black pack 4x2 option pack ",
+            "2.0l limited black pack 4x4 option pack",
+            "2.0l sports bedrock 4x2 ",
+            "limited (o) 1.4 petrol at",
+            "limited (o) 2.0 diesel",
+            "limited (o) 2.0 diesel 4x4",
+            "limited 1.4 petrol at",
+            "limited 2.0 diesel",
+            "limited 2.0 diesel 4x4",
+            "limited plus 1.4 petrol at",
+            "limited plus 2.0 diesel 4x2",
+            "limited plus 2.0 diesel 4x4",
+            "limited plus 2.0 diesel 4x4 at bs6",
+            "limited plus diesel 4x4 bs6",
+            "limited plus diesel bs6",
+            "limited plus petrol at bs6",
+            "longitude (o) 1.4 petrol at",
+            "longitude (o) 2.0 diesel",
+            "longitude 2.0 diesel",
+            "longitude 2.0 diesel 4x4 at bs6",
+            "longitude 2.0 diesel bs6",
+            "longitude plus 1.4 petrol at bs6",
+            "longitude plus 2.0 diesel 4x4 at bs6",
+            "longitude plus 2.0 diesel bs6",
+            "night eagle 1.4 petrol at bs6",
+            "night eagle 2.0 diesel 4x4 at bs6",
+            "night eagle 2.0 diesel bs6",
+            "sport 1.4 petrol",
+            "sport 2.0 diesel",
+            "sport plus 1.4 petrol",
+            "sport plus 1.4 petrol bs6",
+            "sport plus 2.0 diesel",
+            "sport plus 2.0 diesel bs6",
+            "trailhawk",
+            "trailhawk (o) 2.0 4x4 bs6",
+            "trailhawk 2.0 4x4 bs6"
+          ]
+        },
+        "Grand Cherokee": {
+          "trim": [
+            "limited",
+            "limited petrol",
+            "srt",
+            "summit diesel",
+            "summit petrol"
+          ]
+        },
+        "Wrangler": {
+          "trim": [
+            "diesel",
+            "unlimited"
+          ]
+        }
+      }
+    },
+    "Kia": {
+      "model": {
+        "Carnival": {
+          "trim": [
+            "limousine 7 str",
+            "premium 7 str",
+            "premium 8 str",
+            "prestige 7 str",
+            "prestige 9 str"
+          ]
+        },
+        "Ceed": {
+          "trim": [
+            "petrol"
+          ]
+        },
+        "QYI": {
+          "trim": [
+            "petrol"
+          ]
+        },
+        "Rio": {
+          "trim": [
+            "petrol"
+          ]
+        },
+        "Seltos": {
+          "trim": [
+            "anniversary edition 1.5 diesel",
+            "anniversary edition 1.5 petrol",
+            "anniversary edition ivt 1.5 petrol",
+            "gtk 1.4 petrol",
+            "gtx 1.4 petrol",
+            "gtx at 1.4 petrol",
+            "gtx plus 1.4 petrol",
+            "gtx plus at 1.5 diesel",
+            "gtx plus dct 1.4 petrol",
+            "hte 1.5 diesel",
+            "hte 1.5 petrol",
+            "htk 1.5 diesel",
+            "htk 1.5 petrol",
+            "htk plus 1.5 diesel",
+            "htk plus 1.5 petrol",
+            "htk plus at 1.5 diesel",
+            "htx 1.5 diesel",
+            "htx 1.5 petrol",
+            "htx cvt 1.5 petrol",
+            "htx plus 1.5 diesel",
+            "htx plus at 1.5 diesel"
+          ]
+        },
+        "Sonet": {
+          "trim": [
+            "gtx plus 1.0 imt",
+            "gtx plus 1.5",
+            "hte 1.2",
+            "hte 1.5",
+            "htk 1.2",
+            "htk 1.5",
+            "htk plus 1.0 dct",
+            "htk plus 1.0 imt",
+            "htk plus 1.2",
+            "htk plus 1.5",
+            "htk plus 1.5 at",
+            "htx 1.0 imt",
+            "htx 1.5",
+            "htx plus 1.0 imt",
+            "htx plus 1.5"
+          ]
+        },
+        "Sportage": {
+          "trim": [
+            "diesel"
+          ]
+        }
+      }
+    },
+    "Lamborghini": {
+      "model": {
+        "Urus": {
+          "trim": [
+            "twin-turbo v8"
+          ]
+        }
+      }
+    },
+    "Land Rover": {
+      "model": {
+        "Defender": {
+          "trim": [
+            "110 ",
+            "110 first edition",
+            "110 hse",
+            "110 s",
+            "110 se",
+            "90",
+            "90 first edition",
+            "90 hse",
+            "90 s",
+            "90 se"
+          ]
+        },
+        "Discovery": {
+          "trim": [
+            "2.0 hse 4wd diesel",
+            "2.0 hse 4wd luxury diesel",
+            "2.0 hse luxury petrol bs6",
+            "2.0 hse petrol bs6",
+            "2.0 s 4wd diesel",
+            "2.0 s petrol bs6",
+            "2.0 se 4wd diesel",
+            "2.0 se petrol bs6",
+            "3.0 hse diesel",
+            "3.0 hse first edition diesel",
+            "3.0 hse first edition petrol",
+            "3.0 hse luxury diesel",
+            "3.0 hse luxury petrol",
+            "3.0 hse petrol",
+            "3.0 s diesel",
+            "3.0 s petrol",
+            "3.0 se diesel",
+            "3.0 se petrol",
+            "hse",
+            "se"
+          ]
+        },
+        "DISCOVERY 4": {
+          "trim": [
+            "3.0 td v6 diesel",
+            "3.0l tdv6 se",
+            "sdv6 se"
+          ]
+        },
+        "Discovery Sport": {
+          "trim": [
+            "2.2l td4",
+            "hse",
+            "hse 7-seater",
+            "hse luxury",
+            "hse luxury 7-seater",
+            "hse petrol 7-seater",
+            "pure",
+            "r-dynamic se diesel bs6",
+            "r-dynamic se petrol bs6",
+            "s",
+            "s diesel bs6",
+            "s petrol bs6",
+            "se",
+            "se 7-seater",
+            "se petrol"
+          ]
+        },
+        "Freelander": {
+          "trim": [
+            "2.0 hse",
+            "2.0 se"
+          ]
+        },
+        "Freelander 2": {
+          "trim": [
+            "hse",
+            "td4 2.2",
+            "td4 hse",
+            "td4 se"
+          ]
+        },
+        "Range Rover": {
+          "trim": [
+            "3.0 autobiography petrol bs6",
+            "3.0 autobiography petrol lwb bs6",
+            "3.0 sv autobiography petrol lwb bs6",
+            "3.0 v6 diesel vogue",
+            "3.0 v6 diesel vogue lwb",
+            "3.0 v6 petrol vogue",
+            "3.0 vogue petrol bs6",
+            "3.0 vogue petrol lwb",
+            "3.0 vogue petrol lwb bs6",
+            "3.0 vogue se petrol bs6",
+            "3.0 vogue se petrol lwb",
+            "3.0 vogue se petrol lwb bs6",
+            "4.4 sdv8 autobiography",
+            "4.4 sdv8 autobiography lwb",
+            "4.4 sdv8 sv autobiography lwb",
+            "4.4 sdv8 vogue se",
+            "4.4 sdv8 vogue se lwb",
+            "5.0 autobiography petrol",
+            "5.0 super charged v8 petrol",
+            "5.0 v8 autobiography",
+            "5.0 v8 autobiography lwb",
+            "5.0 v8 lwb autobiography petrol",
+            "5.0 v8 sv autobiography dynamic",
+            "5.0 v8 sv autobiography lwb",
+            "lwb 3.0 v6 vogue",
+            "sport sdv6 se"
+          ]
+        },
+        "Range Rover Evoque": {
+          "trim": [
+            "2.0 td4 se",
+            "dynamic sd4",
+            "hse",
+            "hse dynamic",
+            "hse dynamic petrol",
+            "landmark edition",
+            "prestige sd4",
+            "pure",
+            "pure sd4",
+            "s petrol bs6",
+            "se",
+            "se dynamic",
+            "se trim"
+          ]
+        },
+        "Range Rover LWB": {
+          "trim": [
+            "lwb 3.0 v6 vogue"
+          ]
+        },
+        "Range Rover Sport": {
+          "trim": [
+            "3.0 tdv6 autobiography dynamic",
+            "3.0 tdv6 hse diesel",
+            "3.0 tdv6 hse dynamic",
+            "3.0 tdv6 se",
+            "3.6 td v8",
+            "hse",
+            "hse 2.0 petrol",
+            "hse 2.0 petrol bs6",
+            "s 2.0 petrol",
+            "s 2.0 petrol bs6",
+            "sdv6 hse",
+            "sdv6 s",
+            "sdv6 se",
+            "sdv8 autobiography dynamic",
+            "sdv8 hse",
+            "sdv8 hse dynamic",
+            "se 2.0 petrol",
+            "se 2.0 petrol bs6",
+            "v6 hse",
+            "v6 se",
+            "v8 sc autobiography",
+            "v8 sc autobiography dynamic",
+            "v8 sc svr"
+          ]
+        },
+        "Range Rover Velar": {
+          "trim": [
+            "2.0 diesel 180",
+            "2.0 hse diesel 180",
+            "2.0 hse petrol 250",
+            "2.0 petrol 250",
+            "2.0 r-dynamic diesel 180",
+            "2.0 r-dynamic hse diesel 180",
+            "2.0 r-dynamic hse petrol 250",
+            "2.0 r-dynamic petrol 250",
+            "2.0 r-dynamic s diesel 180",
+            "2.0 r-dynamic s petrol 250",
+            "2.0 r-dynamic s petrol 250 bs6",
+            "2.0 r-dynamic se diesel 180",
+            "2.0 r-dynamic se petrol 250",
+            "2.0 s diesel 180",
+            "2.0 s petrol 250",
+            "2.0 se diesel 180",
+            "2.0 se petrol 250",
+            "3.0 diesel 300",
+            "3.0 hse diesel 300",
+            "3.0 r-dynamic diesel 300",
+            "3.0 r-dynamic hse diesel 300",
+            "3.0 r-dynamic s diesel 300",
+            "3.0 r-dynamic se diesel 300",
+            "3.0 s diesel 300",
+            "3.0 se diesel 300",
+            "first edition d 300"
+          ]
+        },
+        "Range Rover Vogue": {
+          "trim": [
+            "3.0 v6 diesel vogue"
+          ]
+        }
+      }
+    },
+    "Lexus": {
+      "model": {
+        "ES": {
+          "trim": [
+            "300h",
+            "300h bs6",
+            "300h exquisite bs6"
+          ]
+        },
+        "LS": {
+          "trim": [
+            "460",
+            "600 hl",
+            "distinct",
+            "luxury",
+            "ultra luxury"
+          ]
+        },
+        "LX": {
+          "trim": [
+            "450d",
+            "570"
+          ]
+        },
+        "NX": {
+          "trim": [
+            "300h exquisite bs6",
+            "300h f-sport",
+            "300h luxury"
+          ]
+        },
+        "RX": {
+          "trim": [
+            "450h luxury",
+            "450hl bs6",
+            "f sport"
+          ]
+        }
+      }
+    },
+    "MG": {
+      "model": {
+        "Baojun 530": {
+          "trim": [
+            "petrol"
+          ]
+        },
+        "G10": {
+          "trim": [
+            "petrol"
+          ]
+        },
+        "Gloster": {
+          "trim": [
+            "savvy 2.0 twin turbo 6 str 4wd",
+            "sharp 2.0 twin turbo 6 str 4wd",
+            "sharp 2.0 twin turbo 7 str 4wd",
+            "smart 2.0 turbo 6 str",
+            "super 2.0 turbo 7 str"
+          ]
+        },
+        "Hector": {
+          "trim": [
+            "sharp 1.5 dct petrol",
+            "sharp 1.5 dct petrol dual tone",
+            "sharp 2.0 diesel",
+            "sharp 2.0 diesel dual tone",
+            "sharp hybrid 1.5 petrol",
+            "sharp hybrid 1.5 petrol dual tone",
+            "smart 1.5 dct petrol",
+            "smart 2.0 diesel",
+            "smart hybrid 1.5 petrol",
+            "special anniversary edition 1.5 petrol",
+            "special anniversary edition 2.0 diesel",
+            "style 1.5 petrol",
+            "style 2.0 diesel",
+            "super 1.5 petrol",
+            "super 2.0 diesel",
+            "super hybrid 1.5 petrol"
+          ]
+        },
+        "Hector Plus": {
+          "trim": [
+            "sharp 1.5 dct petrol",
+            "sharp 2.0 diesel",
+            "sharp hybrid 1.5 petrol",
+            "smart 1.5 dct petrol",
+            "smart 2.0 diesel",
+            "style 1.5 petrol",
+            "style 2.0 diesel",
+            "super 2.0 diesel"
+          ]
+        },
+        "RC6": {
+          "trim": [
+            "1.5 petrol"
+          ]
+        },
+        "RX5": {
+          "trim": [
+            "diesel"
+          ]
+        }
+      }
+    },
+    "Mahindra": {
+      "model": {
+        "Alturas G4": {
+          "trim": [
+            "2wd at",
+            "2wd at bs6",
+            "4wd at",
+            "4wd at bs6"
+          ]
+        },
+        "Bolero": {
+          "trim": [
+            "2 wd at",
+            "2 wd mt",
+            "4 wd at",
+            "b2 bs6",
+            "b4 bs6",
+            "b6 (o) bs6",
+            "b6 bs6",
+            "di 4wd bs iii",
+            "di ac bs iii",
+            "di bs iii",
+            "ex ac bs iv",
+            "ex bs iv",
+            "glx",
+            "invader di",
+            "invader glx",
+            "lx 4wd bs iii",
+            "lx bs iii",
+            "lx bs iv",
+            "maxi truck plus cng",
+            "plus ac bs iii",
+            "plus ac bs iv",
+            "plus ac ps",
+            "plus bs iii",
+            "plus bs iv",
+            "power plus lx",
+            "power plus sle",
+            "power plus slx",
+            "power plus zlx",
+            "sle bs iii",
+            "sle bs iv",
+            "slx 4wd",
+            "slx bs iii",
+            "slx bs iv",
+            "sportz",
+            "std",
+            "vlx",
+            "vlx crde",
+            "xl 10 str",
+            "xl 10 str non ac",
+            "xl 7 str",
+            "xl 7 str non ac",
+            "xl 9 str",
+            "xls 10 str",
+            "xls 7 str",
+            "zlx",
+            "zlx bs iii",
+            "zlx bs iv"
+          ]
+        },
+        "KUV100": {
+          "trim": [
+            "d75 k2 diesel",
+            "k 8 dual tone d 6 str",
+            "k2 6 str",
+            "k2 d 6 str",
+            "k2+ 6 str",
+            "k2+ d 6 str",
+            "k4 5 str",
+            "k4 6 str",
+            "k4 d 5 str",
+            "k4 d 6 str",
+            "k4+ 5 str",
+            "k4+ 6 str",
+            "k4+ d 5 str",
+            "k4+ d 6 str",
+            "k6 5 str",
+            "k6 6 str",
+            "k6 d 5 str",
+            "k6 d 6 str",
+            "k6+ 5 str",
+            "k6+ 6 str",
+            "k6+ d 5 str",
+            "k6+ d 6 str",
+            "k8 5 str",
+            "k8 6 str",
+            "k8 d 5 str",
+            "k8 d 6 str",
+            "mfalcon d75 k4",
+            "mfalcon g80 k2 plus",
+            "mfalcon g80 k8"
+          ]
+        },
+        "KUV100 NXT": {
+          "trim": [
+            "k2 6 str",
+            "k2 d 6 str",
+            "k2 plus 6 str",
+            "k2 plus 6 str bs6",
+            "k2 plus d 6 str",
+            "k4 plus 5 str",
+            "k4 plus 6 str",
+            "k4 plus 6 str bs6",
+            "k4 plus d 5 str",
+            "k4 plus d 6 str",
+            "k6 plus 5 str",
+            "k6 plus 6 str",
+            "k6 plus 6 str bs6",
+            "k6 plus d 5 str",
+            "k6 plus d 6 str",
+            "k8 5 str",
+            "k8 6 str",
+            "k8 6 str bs6",
+            "k8 6 str dual tone",
+            "k8 d 5 str",
+            "k8 d 6 str",
+            "k8 d 6 str dual tone"
+          ]
+        },
+        "Logan": {
+          "trim": [
+            "dle",
+            "dls",
+            "gle",
+            "gle 1.4",
+            "gls",
+            "tourer glx"
+          ]
+        },
+        "Marazzo": {
+          "trim": [
+            "m2 7 str",
+            "m2 7 str bs6",
+            "m2 8 str",
+            "m2 8 str bs6",
+            "m4 7 str",
+            "m4 8 str",
+            "m4 plus 7 str bs6",
+            "m4 plus 8 str bs6",
+            "m6 7 str",
+            "m6 8 str",
+            "m6 plus 7 str bs6",
+            "m6 plus 8 str bs6",
+            "m8 7 str",
+            "m8 8 str"
+          ]
+        },
+        "Marshal": {
+          "trim": [
+            "di",
+            "dx",
+            "std"
+          ]
+        },
+        "NuvoSport": {
+          "trim": [
+            "n4",
+            "n4 plus",
+            "n6",
+            "n6 amt",
+            "n8",
+            "n8 amt"
+          ]
+        },
+        "Quanto": {
+          "trim": [
+            "c6",
+            "c8"
+          ]
+        },
+        "S204": {
+          "trim": [
+            "diesel"
+          ]
+        },
+        "Scorpio": {
+          "trim": [
+            "2.6",
+            "2.6 crde",
+            "2.6 dx",
+            "2.6 dx crde",
+            "2.6 glx",
+            "2.6 slx",
+            "2.6 slx crde",
+            "2.6 sportz crde",
+            "2.6 turbo 7 str",
+            "2.6 turbo 9 str",
+            "adventure le 2wd",
+            "adventure le 4wd",
+            "dx 2.6 turbo 7 str",
+            "dx 2.6 turbo 8 str",
+            "dx2",
+            "ex",
+            "glx",
+            "lx",
+            "lx 2.6 turbo",
+            "lx 4wd bs iv",
+            "lx bs iii",
+            "lx bs iv",
+            "m2di",
+            "s10",
+            "s10 1.99",
+            "s10 1.99 intelli-hybrid",
+            "s10 1.99 mhawk",
+            "s10 2wd intelli-hybrid",
+            "s10 4wd",
+            "s10 4wd 1.99",
+            "s10 4wd 1.99 intelli-hybrid",
+            "s10 4wd at",
+            "s10 4wd intelli-hybrid",
+            "s10 7 seater",
+            "s11 2wd",
+            "s11 2wd 7 seater",
+            "s11 2wd 8 seater",
+            "s11 4wd",
+            "s11 4wd 7 seater",
+            "s11 4wd 8 seater",
+            "s11 bs6",
+            "s2",
+            "s3 2wd",
+            "s3 2wd 7 seater",
+            "s3 2wd 9 seater",
+            "s4",
+            "s4 1.99",
+            "s4 1.99 intelli-hybrid",
+            "s4 intelli-hybrid",
+            "s4 plus",
+            "s4 plus 1.99",
+            "s4 plus 1.99 intelli-hybrid",
+            "s4 plus 1.99 mhawk 4wd",
+            "s4 plus 4wd",
+            "s4 plus 4wd 1.99",
+            "s4 plus 4wd intelli-hybrid",
+            "s4 plus intelli-hybrid",
+            "s5 2wd",
+            "s5 2wd 7 seater",
+            "s5 2wd 9 seater",
+            "s5 bs6",
+            "s6 plus",
+            "s6 plus 1.99",
+            "s6 plus intelli-hybrid",
+            "s7 120 bhp 2wd",
+            "s7 140 2wd 7 seater",
+            "s7 140 bhp 2wd",
+            "s7 bs6",
+            "s8 1.99",
+            "s8 1.99 intelli-hybrid",
+            "s8 7c seater",
+            "s8 intelli-hybrid",
+            "s9 2wd 7 seater",
+            "s9 2wd 8 seater",
+            "s9 bs6",
+            "sle 2.6 crde",
+            "sle bs iii",
+            "sle bs iv",
+            "slx",
+            "slx 2.6 turbo 7 str",
+            "slx 2.6 turbo 8 str",
+            "turbo 2.6 dx",
+            "vls",
+            "vls 2.2 at m hawk",
+            "vls 2.2 m hawk",
+            "vlx",
+            "vlx 2wd",
+            "vlx 2wd airbag at bs iv",
+            "vlx 2wd airbag bs iii",
+            "vlx 2wd airbag bs iv",
+            "vlx 2wd at",
+            "vlx 2wd at bs-iv",
+            "vlx 2wd bs iii",
+            "vlx 2wd bs iv",
+            "vlx 4wd abs bs-iii",
+            "vlx 4wd airbag at bs iii",
+            "vlx 4wd airbag at bs iv",
+            "vlx 4wd airbag bs iii",
+            "vlx 4wd airbag bs iv",
+            "vlx 4wd at bs iii",
+            "vlx 4wd at bs iv",
+            "vlx 4wd bs iii",
+            "vlx 4wd bs iv",
+            "vlx spl edition bs iii",
+            "vlx spl edition bs iv"
+          ]
+        },
+        "Scorpio Getaway": {
+          "trim": [
+            "2wd",
+            "4wd"
+          ]
+        },
+        "Supro": {
+          "trim": [
+            "lx 8 str",
+            "lx 8 str bsiii",
+            "vx 5 str",
+            "vx 5 str bsiii",
+            "vx 8 str",
+            "vx 8 str bsiii",
+            "zx 5 str",
+            "zx 5 str bsiii"
+          ]
+        },
+        "Thar": {
+          "trim": [
+            "4x4",
+            "700 special edition",
+            "ax 6 str soft top diesel mt bs6",
+            "ax 6 str soft top petrol mt bs6",
+            "ax optional 4 str convertible diesel mt bs6",
+            "ax optional 4 str convertible petrol mt bs6",
+            "ax optional 4 str hard top diesel mt bs6",
+            "ax std 6 str soft top petrol mt bs6",
+            "crde 2wd",
+            "crde 4x4",
+            "crde 4x4 abs",
+            "crde 4x4 ac",
+            "crde 4x4 bs iv",
+            "di 2wd",
+            "di 2wd bs iv",
+            "di 2wd ps bs iii",
+            "di 4wd",
+            "di 4wd bs iv",
+            "di 4wd ps bs iii",
+            "di 4x4",
+            "lx 4 str convertible diesel at bs6",
+            "lx 4 str convertible diesel mt bs6",
+            "lx 4 str convertible petrol at bs6",
+            "lx 4 str hard top diesel at bs6",
+            "lx 4 str hard top diesel mt bs6",
+            "lx 4 str hard top petrol at bs6",
+            "lx 4 str hard top petrol mt bs6",
+            "mm-540 4wd"
+          ]
+        },
+        "TUV300": {
+          "trim": [
+            "facelift",
+            "t10",
+            "t10 (o)",
+            "t10 (o) dual tone",
+            "t10 amt",
+            "t10 amt dual tone",
+            "t10 dual tone",
+            "t4",
+            "t4 plus",
+            "t6",
+            "t6 plus",
+            "t6 plus amt",
+            "t8",
+            "t8 amt",
+            "t8 amt mhawk100",
+            "t8 mhawk100",
+            "t8 mhawk100 dual tone",
+            "t8 petrol"
+          ]
+        },
+        "TUV300 PLUS": {
+          "trim": [
+            "p4",
+            "p6",
+            "p8"
+          ]
+        },
+        "Verito": {
+          "trim": [
+            "1.4 g2 bs iii",
+            "1.4 g2 bs iv",
+            "1.4 g4 bs iii",
+            "1.4 g4 bs iv",
+            "1.4 g4 play bs iii",
+            "1.5 d2 bs iii",
+            "1.5 d2 bs iv",
+            "1.5 d4 bs iii",
+            "1.5 d4 bs iv",
+            "1.5 d4 play bs iii",
+            "1.5 d6 bs iii",
+            "1.5 d6 bs iv",
+            "1.5 d6 executive bs iii",
+            "1.5 d6 executive bs iv",
+            "1.5 executive edition",
+            "1.6 g6 executive bs iv"
+          ]
+        },
+        "Verito Vibe": {
+          "trim": [
+            "1.5 d2",
+            "1.5 d4",
+            "1.5 d6"
+          ]
+        },
+        "Verito Vibe CS": {
+          "trim": [
+            "1.5 d2",
+            "1.5 d4",
+            "1.5 d6"
+          ]
+        },
+        "XUV300": {
+          "trim": [
+            "turbo sportz",
+            "w4 diesel",
+            "w4 diesel bs6",
+            "w4 petrol",
+            "w4 petrol bs6",
+            "w6 amt diesel bs6",
+            "w6 diesel",
+            "w6 diesel amt",
+            "w6 diesel bs6",
+            "w6 petrol",
+            "w6 petrol bs6",
+            "w8 (o) amt diesel bs6",
+            "w8 (o) diesel",
+            "w8 (o) diesel bs6",
+            "w8 (o) diesel dual tone",
+            "w8 (o) petrol",
+            "w8 (o) petrol bs6",
+            "w8 (o) petrol dual tone",
+            "w8 amt (o) diesel",
+            "w8 amt (o) diesel dual tone",
+            "w8 amt diesel",
+            "w8 amt diesel bs6",
+            "w8 diesel",
+            "w8 diesel bs6",
+            "w8 diesel bs6 (optional pack dual tone)",
+            "w8 petrol",
+            "w8 petrol bs6",
+            "w8 petrol bs6 (optional pack dual tone)"
+          ]
+        },
+        "XUV500": {
+          "trim": [
+            "g at",
+            "sportz ltd",
+            "w10",
+            "w10 1.99",
+            "w10 at",
+            "w10 at 1.99",
+            "w10 awd",
+            "w10 awd at",
+            "w11",
+            "w11 (o)",
+            "w11 (o) at",
+            "w11 (o) awd",
+            "w11 (o) awd at",
+            "w11 at",
+            "w11 at bs6 (o)",
+            "w11 bs6 (o)",
+            "w3",
+            "w4",
+            "w4 1.99",
+            "w5",
+            "w5 bs6",
+            "w6",
+            "w6 1.99",
+            "w6 4x2",
+            "w6 at",
+            "w6 at 1.99",
+            "w7",
+            "w7 at",
+            "w7 at bs6",
+            "w7 bs6",
+            "w8",
+            "w8 1.99",
+            "w8 2wd",
+            "w8 4wd",
+            "w8 4x4",
+            "w8 at",
+            "w8 at 1.99",
+            "w8 awd",
+            "w9",
+            "w9 1.99",
+            "w9 at",
+            "w9 at 1.99",
+            "w9 at bs6",
+            "w9 bs6",
+            "xclusive edition"
+          ]
+        },
+        "Xylo": {
+          "trim": [
+            "base",
+            "celebration edition bs iv",
+            "d2 bs iii",
+            "d2 bs iv",
+            "d4 bs iii",
+            "d4 bs iv",
+            "e2",
+            "e4 abs bs iii",
+            "e4 abs bs iv",
+            "e4 bs iii",
+            "e4 bs iv",
+            "e6 bs iii",
+            "e6 bs iv",
+            "e6 celebration",
+            "e8 abs airbag bs iii",
+            "e8 abs airbag bs iv",
+            "e8 abs bs iii",
+            "e8 abs bs iv",
+            "e8 bs iii",
+            "e8 bs iv",
+            "e9 bs iv",
+            "h4 abs airbag bs iv",
+            "h4 bs iv",
+            "h4 bs iv abs airbag mhawk",
+            "h8",
+            "h8 abs airbag bs iv",
+            "h8 abs bs iv",
+            "h8 bs iv abs airbag mhawk",
+            "h9 bs iv"
+          ]
+        }
+      }
+    },
+    "Mahindra Renault": {
+      "model": {
+        "Logan": {
+          "trim": [
+            "dle",
+            "dls",
+            "gle",
+            "gle 1.4",
+            "gls",
+            "tourer glx"
+          ]
+        }
+      }
+    },
+    "Mahindra Ssangyong": {
+      "model": {
+        "Rexton": {
+          "trim": [
+            "facelift",
+            "rx5",
+            "rx6",
+            "rx7"
+          ]
+        },
+        "Tivoli": {
+          "trim": [
+            "diesel"
+          ]
+        }
+      }
+    },
+    "Maruti Suzuki": {
+      "model": {
+        "1000": {
+          "trim": [
+            "ac",
+            "std"
+          ]
+        },
+        "800": {
+          "trim": [
+            "ac",
+            "ac bs ii",
+            "ac bs iii",
+            "ac uniq",
+            "duo ac lpg",
+            "duo std lpg",
+            "dx",
+            "ex 5 speed",
+            "std",
+            "std bs ii",
+            "std bs iii"
+          ]
+        },
+        "A-Star": {
+          "trim": [
+            "lxi",
+            "vxi",
+            "vxi abs at",
+            "vxi at",
+            "zxi",
+            "zxi (o)"
+          ]
+        },
+        "Alto": {
+          "trim": [
+            "ax",
+            "lx",
+            "lx bs-ii",
+            "lx bs-iii",
+            "lx bs-iv",
+            "lx cng",
+            "lxi",
+            "lxi (o)",
+            "lxi (o) bs6",
+            "lxi (o) cng bs6",
+            "lxi bs-ii",
+            "lxi bs-iii",
+            "lxi bs-iv",
+            "lxi bs6",
+            "lxi cng",
+            "lxi cng bs6",
+            "std",
+            "std (o)",
+            "std (o) bs6",
+            "std bs-ii",
+            "std bs-iii",
+            "std bs-iv",
+            "std bs6",
+            "std cng",
+            "vx",
+            "vx 1.1",
+            "vxi",
+            "vxi bs6",
+            "vxi plus bs6",
+            "xcite"
+          ]
+        },
+        "Alto 800": {
+          "trim": [
+            "lx",
+            "lx (o)",
+            "lx cng",
+            "lxi",
+            "lxi (airbag)",
+            "lxi (o)",
+            "lxi anniversary edition",
+            "lxi cng",
+            "lxi cng (o)",
+            "std",
+            "std (o)",
+            "std cng",
+            "vxi",
+            "vxi (o)",
+            "vxi airbag"
+          ]
+        },
+        "Alto K10": {
+          "trim": [
+            "lx",
+            "lx (o)",
+            "lx airbag",
+            "lxi",
+            "lxi (airbag)",
+            "lxi (o)",
+            "lxi cng",
+            "lxi cng (airbag)",
+            "lxi cng (o)",
+            "vxi",
+            "vxi (o)",
+            "vxi ags (o)",
+            "vxi amt",
+            "vxi amt (airbag)",
+            "vxi at"
+          ]
+        },
+        "Baleno": {
+          "trim": [
+            "alpha 1.2",
+            "alpha 1.2 at bs6",
+            "alpha 1.2 bs6",
+            "alpha 1.3",
+            "alpha at 1.2",
+            "altura",
+            "delta 1.2",
+            "delta 1.2 at bs6",
+            "delta 1.2 bs6",
+            "delta 1.2 cvt bs6",
+            "delta 1.2 dualjet bs6",
+            "delta 1.3",
+            "delta at 1.2",
+            "lxi",
+            "lxi bs iii",
+            "rs 1.0",
+            "sigma 1.2",
+            "sigma 1.2 bs6",
+            "sigma 1.3",
+            "std",
+            "vxi",
+            "vxi bs iii",
+            "zeta 1.2",
+            "zeta 1.2 at bs6",
+            "zeta 1.2 bs6",
+            "zeta 1.2 dualjet bs6",
+            "zeta 1.3",
+            "zeta at 1.2"
+          ]
+        },
+        "Celerio": {
+          "trim": [
+            "ldi",
+            "ldi (o)",
+            "ldi abs",
+            "lxi",
+            "lxi (o)",
+            "lxi (o) bs6",
+            "lxi abs",
+            "lxi amt",
+            "lxi amt (o)",
+            "lxi amt abs",
+            "lxi bs6",
+            "tour h2",
+            "tour h2 cng",
+            "vdi",
+            "vdi (o)",
+            "vdi abs",
+            "vxi",
+            "vxi (o)",
+            "vxi (o) amt bs6",
+            "vxi (o) bs6",
+            "vxi (o) cng bs6",
+            "vxi abs",
+            "vxi amt",
+            "vxi amt  (o)",
+            "vxi amt abs",
+            "vxi amt bs6",
+            "vxi bs6",
+            "vxi cng",
+            "vxi cng (o)",
+            "vxi cng bs6",
+            "zdi",
+            "zdi (o)",
+            "zxi",
+            "zxi (o)",
+            "zxi (o) amt bs6",
+            "zxi (opt) bs6",
+            "zxi amt",
+            "zxi amt (o)",
+            "zxi amt abs",
+            "zxi amt bs6",
+            "zxi bs6"
+          ]
+        },
+        "Celerio X": {
+          "trim": [
+            "vxi",
+            "vxi (o)",
+            "vxi (o) amt",
+            "vxi (o) amt bs6",
+            "vxi (o) bs6",
+            "vxi amt",
+            "vxi amt bs6",
+            "vxi bs6",
+            "zxi",
+            "zxi (o) amt",
+            "zxi (o) amt bs6",
+            "zxi (opt)",
+            "zxi (opt) bs6",
+            "zxi amt",
+            "zxi amt bs6",
+            "zxi bs6"
+          ]
+        },
+        "Ciaz": {
+          "trim": [
+            "alpha 1.3 hybrid",
+            "alpha 1.4 at",
+            "alpha 1.4 mt",
+            "alpha 1.5 at bs6",
+            "alpha 1.5 at petrol",
+            "alpha 1.5 bs6",
+            "alpha 1.5 diesel",
+            "alpha 1.5 mt petrol",
+            "delta 1.3 hybrid",
+            "delta 1.4 at",
+            "delta 1.4 mt",
+            "delta 1.5 at bs6",
+            "delta 1.5 at petrol",
+            "delta 1.5 bs6",
+            "delta 1.5 diesel",
+            "delta 1.5 mt petrol",
+            "s 1.3 hybrid",
+            "s 1.4 mt",
+            "s 1.5 mt bs6",
+            "sigma 1.3 hybrid",
+            "sigma 1.4 mt",
+            "sigma 1.5 bs6",
+            "sigma 1.5 mt petrol",
+            "vdi",
+            "vdi (o) shvs",
+            "vdi plus",
+            "vdi shvs",
+            "vdi+ shvs",
+            "vxi",
+            "vxi (o)",
+            "vxi plus",
+            "vxi+ at",
+            "zdi",
+            "zdi (o)",
+            "zdi plus",
+            "zdi shvs",
+            "zdi+ (o)",
+            "zdi+ shvs",
+            "zdi+ shvs rs",
+            "zeta 1.3 hybrid",
+            "zeta 1.4 at",
+            "zeta 1.4 mt",
+            "zeta 1.5 at bs6",
+            "zeta 1.5 at petrol",
+            "zeta 1.5 bs6",
+            "zeta 1.5 diesel",
+            "zeta 1.5 mt petrol",
+            "zxi",
+            "zxi (o)",
+            "zxi at",
+            "zxi plus",
+            "zxi+ at",
+            "zxi+ rs"
+          ]
+        },
+        "Dzire": {
+          "trim": [
+            "ldi",
+            "lxi",
+            "lxi bs6",
+            "tour lxi cng",
+            "tour s cng",
+            "tour s cng bs6",
+            "tour s diesel",
+            "tour s petrol bs6",
+            "vdi",
+            "vdi amt",
+            "vxi",
+            "vxi ags bs6",
+            "vxi amt",
+            "vxi bs6",
+            "zdi",
+            "zdi amt",
+            "zdi plus",
+            "zdi+ amt",
+            "zxi",
+            "zxi ags bs6",
+            "zxi amt",
+            "zxi bs6",
+            "zxi plus",
+            "zxi plus ags bs6",
+            "zxi plus bs6",
+            "zxi+ amt"
+          ]
+        },
+        "Eeco": {
+          "trim": [
+            "5 str",
+            "5 str ac",
+            "5 str ac cng",
+            "5 str bs6",
+            "5 str cng with htr",
+            "5 str with a/c+htr",
+            "5 str with a/c+htr bs6",
+            "5 str with a/c+htr cng",
+            "5 str with a/c+htr cng bs6",
+            "7 str",
+            "7 str bs6",
+            "flexi green",
+            "tour v 5 str std bs6"
+          ]
+        },
+        "Ertiga": {
+          "trim": [
+            "ldi",
+            "ldi (o) shvs",
+            "ldi shvs",
+            "ldi smart hybrid",
+            "lxi",
+            "lxi (o)",
+            "lxi cng",
+            "lxi smart hybrid",
+            "sport",
+            "tour m",
+            "tour m cng",
+            "vdi",
+            "vdi abs",
+            "vdi bs iv",
+            "vdi limited edition",
+            "vdi shvs",
+            "vdi smart hybrid",
+            "vxi",
+            "vxi abs",
+            "vxi at",
+            "vxi at smart hybrid",
+            "vxi cng",
+            "vxi cng bs6",
+            "vxi limited edition",
+            "vxi smart hybrid",
+            "zdi",
+            "zdi plus smart hybrid",
+            "zdi shvs",
+            "zdi smart hybrid",
+            "zdi+ shvs",
+            "zxi",
+            "zxi at smart hybrid",
+            "zxi plus",
+            "zxi plus smart hybrid",
+            "zxi smart hybrid"
+          ]
+        },
+        "Esteem": {
+          "trim": [
+            "ax",
+            "ax bs ii",
+            "di",
+            "lx",
+            "lx bs ii",
+            "lx bs iii",
+            "lxi",
+            "lxi bs ii",
+            "lxi bs iii",
+            "vx",
+            "vx bs ii",
+            "vxi",
+            "vxi bs ii",
+            "vxi bs iii"
+          ]
+        },
+        "Grand Vitara": {
+          "trim": [
+            "diesel",
+            "xl 7 mt"
+          ]
+        },
+        "Gypsy": {
+          "trim": [
+            "king hard top mpi bsiv",
+            "king ht",
+            "king ht bs ii",
+            "king ht bs iii",
+            "king ht bs iv",
+            "king st",
+            "king st bs ii",
+            "king st bs iii",
+            "king st bs iv",
+            "st"
+          ]
+        },
+        "Ignis": {
+          "trim": [
+            "alpha 1.2 amt",
+            "alpha 1.2 amt bs6",
+            "alpha 1.2 mt",
+            "alpha 1.2 mt bs6",
+            "alpha 1.3 amt",
+            "alpha 1.3 mt",
+            "delta 1.2 amt",
+            "delta 1.2 amt bs6",
+            "delta 1.2 at",
+            "delta 1.2 mt",
+            "delta 1.2 mt bs6",
+            "delta 1.3 amt",
+            "delta 1.3 at",
+            "delta 1.3 mt",
+            "sigma 1.2 mt",
+            "sigma 1.2 mt bs6",
+            "zeta 1.2 amt",
+            "zeta 1.2 amt bs6",
+            "zeta 1.2 at",
+            "zeta 1.2 mt",
+            "zeta 1.2 mt bs6",
+            "zeta 1.3 amt",
+            "zeta 1.3 at",
+            "zeta 1.3 mt"
+          ]
+        },
+        "Jimny": {
+          "trim": [
+            "petrol"
+          ]
+        },
+        "Kizashi": {
+          "trim": [
+            "cvt",
+            "mt"
+          ]
+        },
+        "Omni": {
+          "trim": [
+            "5 seater",
+            "5 seater bs ii",
+            "5 seater bs iii",
+            "5 seater bs-ii",
+            "5 seater bs-iv",
+            "5-seater std lpg",
+            "8 seater",
+            "8 seater bs ii",
+            "8 seater bs iii",
+            "8 seater bs iv",
+            "cargo",
+            "cargo bs iv",
+            "cargo lpg bs iii",
+            "e 8 seater",
+            "e 8 seater bs-iv",
+            "e mpi std bsiv",
+            "lpg bs iii",
+            "lpg bs iv",
+            "mpi ambulance bsiv",
+            "mpi std bsiv"
+          ]
+        },
+        "Ritz": {
+          "trim": [
+            "genus vdi",
+            "genus vxi",
+            "ldi bs-iv",
+            "lxi bs-iv",
+            "vdi (abs) bs iv",
+            "vdi bs iv",
+            "vxi (abs) bs iv",
+            "vxi bs iv",
+            "zdi bs iv",
+            "zxi bs iv"
+          ]
+        },
+        "S-Cross": {
+          "trim": [
+            "alpha at petrol bs6",
+            "alpha petrol bs6",
+            "delta at petrol bs6",
+            "delta petrol bs6",
+            "sigma petrol bs6",
+            "zeta at petrol bs6",
+            "zeta petrol bs6"
+          ]
+        },
+        "S-Presso": {
+          "trim": [
+            "lxi (o) bs6",
+            "lxi bs6",
+            "lxi cng bs6",
+            "std (o) bs6",
+            "std bs6",
+            "vxi (o) ags bs6",
+            "vxi (o) bs6",
+            "vxi ags bs6",
+            "vxi bs6",
+            "vxi cng bs6",
+            "vxi plus ags bs6",
+            "vxi plus bs6"
+          ]
+        },
+        "Solio": {
+          "trim": [
+            "petrol"
+          ]
+        },
+        "Stingray": {
+          "trim": [
+            "lxi",
+            "lxi (o)",
+            "vxi",
+            "vxi amt",
+            "vxi amt (o)",
+            "vxi opt"
+          ]
+        },
+        "Swift": {
+          "trim": [
+            "glam",
+            "ldi",
+            "ldi (o)",
+            "ldi abs",
+            "ldi bs iv",
+            "limited edition diesel",
+            "limited edition petrol",
+            "lxi",
+            "lxi 1.2 bs iv",
+            "lxi 1.3",
+            "lxi abs",
+            "lxi abs opt",
+            "lxi bs iii",
+            "lxi bs6",
+            "lxi limited edition",
+            "lxi opt",
+            "vdi",
+            "vdi (o)",
+            "vdi abs",
+            "vdi abs bs iv",
+            "vdi amt",
+            "vdi bs iv",
+            "vdi deca limited edition",
+            "vdi glory edition",
+            "vdi windsong limited edition",
+            "vxi",
+            "vxi (o)",
+            "vxi 1.2 abs bs iv",
+            "vxi 1.2 bs iv",
+            "vxi 1.3",
+            "vxi abs",
+            "vxi ags bs6",
+            "vxi ags limited edition",
+            "vxi amt",
+            "vxi bs6",
+            "vxi deca limited edition",
+            "vxi glory edition",
+            "vxi limited edition",
+            "vxi windsong limited edition",
+            "zdi",
+            "zdi amt",
+            "zdi plus",
+            "zdi plus amt",
+            "zxi",
+            "zxi 1.2 bs iv",
+            "zxi 1.3",
+            "zxi abs",
+            "zxi ags bs6",
+            "zxi ags limited edition",
+            "zxi amt",
+            "zxi bs6",
+            "zxi limited edition",
+            "zxi plus",
+            "zxi plus ags bs6",
+            "zxi plus ags limited edition",
+            "zxi plus amt",
+            "zxi plus bs6",
+            "zxi plus limited edition"
+          ]
+        },
+        "Swift Dzire": {
+          "trim": [
+            "ldi",
+            "ldi abs",
+            "ldi bs-iv",
+            "ldi opt",
+            "lxi",
+            "lxi 1.2 bs-iv",
+            "lxi abs",
+            "lxi opt",
+            "regal",
+            "tour",
+            "vdi",
+            "vdi (o)",
+            "vdi abs",
+            "vdi bs-iv",
+            "vxi",
+            "vxi 1.2 bs-iv",
+            "vxi abs",
+            "vxi at",
+            "vxi at (o)",
+            "vxi at abs",
+            "vxi opt",
+            "zdi",
+            "zdi amt",
+            "zdi bs-iv",
+            "zxi",
+            "zxi 1.2 bs-iv"
+          ]
+        },
+        "SX4": {
+          "trim": [
+            "vdi",
+            "vdi bs-iv",
+            "vxi",
+            "vxi cng",
+            "vxi cng bs-iv",
+            "zdi",
+            "zxi",
+            "zxi at bs-iv",
+            "zxi at leather bs-iv",
+            "zxi bs-iv",
+            "zxi leather",
+            "zxi opt"
+          ]
+        },
+        "Versa": {
+          "trim": [
+            "dx",
+            "dx 2",
+            "dx 5 str bs ii",
+            "dx bs ii",
+            "dx bs iii",
+            "dx2",
+            "dx2 5 str bs iii",
+            "dx2 bs iii",
+            "std",
+            "std 5 str bs iii",
+            "std bs iii"
+          ]
+        },
+        "Vitara Brezza": {
+          "trim": [
+            "ldi",
+            "ldi opt",
+            "lxi bs6",
+            "vdi",
+            "vdi amt",
+            "vdi opt",
+            "vxi at shvs bs6",
+            "vxi bs6",
+            "zdi",
+            "zdi amt",
+            "zdi plus",
+            "zdi plus amt",
+            "zdi plus dual tone",
+            "zdi plus dual tone amt",
+            "zxi at shvs bs6",
+            "zxi bs6",
+            "zxi plus at dual tone bs6",
+            "zxi plus at shvs bs6",
+            "zxi plus bs6",
+            "zxi plus dual tone bs6"
+          ]
+        },
+        "Wagon R": {
+          "trim": [
+            "ax",
+            "ax bs-ii",
+            "ax minor",
+            "ax minor at",
+            "green lxi cng",
+            "lx",
+            "lx bs-ii",
+            "lx bs-iii",
+            "lx minor",
+            "lxi",
+            "lxi (o)",
+            "lxi (o) 1.0 bs6",
+            "lxi (o) 1.0 cng",
+            "lxi (o) 1.0 cng bs6",
+            "lxi 1.0",
+            "lxi 1.0 (o)",
+            "lxi 1.0 bs6",
+            "lxi 1.0 cng",
+            "lxi 1.0 cng bs6",
+            "lxi abs",
+            "lxi bs-ii",
+            "lxi bs-iii",
+            "lxi cng",
+            "lxi cng (o)",
+            "lxi lpg",
+            "lxi minor",
+            "primea",
+            "vxi",
+            "vxi (o) 1.0 ags bs6",
+            "vxi (o) 1.0 bs6",
+            "vxi (o) 1.2 ags bs6",
+            "vxi (o) 1.2 bs6",
+            "vxi (o) bs-iii",
+            "vxi 1.0",
+            "vxi 1.0 (o)",
+            "vxi 1.0 ags",
+            "vxi 1.0 ags (o)",
+            "vxi 1.0 ags bs6",
+            "vxi 1.0 bs6",
+            "vxi 1.2",
+            "vxi 1.2 (o)",
+            "vxi 1.2 ags",
+            "vxi 1.2 ags (o)",
+            "vxi 1.2 ags bs6",
+            "vxi 1.2 bs6",
+            "vxi abs",
+            "vxi abs airbag",
+            "vxi abs bs-iii",
+            "vxi amt",
+            "vxi amt opt",
+            "vxi bs-ii",
+            "vxi bs-iii",
+            "vxi minor",
+            "vxi plus",
+            "vxi with abs minor",
+            "vxi+ (o)",
+            "vxi+ amt",
+            "vxi+ amt (o)",
+            "zxi",
+            "zxi 1.2",
+            "zxi 1.2 ags",
+            "zxi 1.2 ags bs6",
+            "zxi 1.2 bs6"
+          ]
+        },
+        "Wagon R Duo": {
+          "trim": [
+            "lx",
+            "lx lpg",
+            "lxi",
+            "lxi lpg",
+            "vxi"
+          ]
+        },
+        "XL5": {
+          "trim": [
+            "petrol"
+          ]
+        },
+        "XL6": {
+          "trim": [
+            "alpha at petrol bs6",
+            "alpha mt petrol bs6",
+            "zeta at petrol bs6",
+            "zeta mt petrol bs6"
+          ]
+        },
+        "Zen": {
+          "trim": [
+            "at bs ii",
+            "d",
+            "d ps",
+            "lx",
+            "lx bs ii",
+            "lxi",
+            "lxi bs ii",
+            "lxi bs iii",
+            "vx",
+            "vxi",
+            "vxi bs ii",
+            "vxi bs iii"
+          ]
+        },
+        "Zen Estilo": {
+          "trim": [
+            "lx bs iv",
+            "lxi",
+            "lxi bs iv",
+            "lxi cng bs iv",
+            "sports",
+            "vxi",
+            "vxi abs",
+            "vxi abs bs iv",
+            "vxi bs iv"
+          ]
+        }
+      }
+    },
+    "Maserati": {
+      "model": {
+        "Ghibli": {
+          "trim": [
+            "diesel"
+          ]
+        },
+        "Levante": {
+          "trim": [
+            "diesel",
+            "granlusso",
+            "gransport"
+          ]
+        },
+        "Quattroporte": {
+          "trim": [
+            "diesel",
+            "gts",
+            "sport gt 4.7"
+          ]
+        }
+      }
+    },
+    "Maybach": {
+      "model": {
+        "57 S": {
+          "trim": [
+            "57 s"
+          ]
+        }
+      }
+    },
+    "Mercedes-Benz": {
+      "model": {
+        "A-Class": {
+          "trim": [
+            "a 180",
+            "a 180 night edition",
+            "a 200 cdi",
+            "a 200d",
+            "a 200d night edition",
+            "a 200d sport",
+            "a180 sport"
+          ]
+        },
+        "A-Class Sedan": {
+          "trim": [
+            "petrol"
+          ]
+        },
+        "B-Class": {
+          "trim": [
+            "b 180",
+            "b 180 cdi",
+            "b 180 sport",
+            "b 200 cdi",
+            "b 200 cdi sport",
+            "edition 1"
+          ]
+        },
+        "C-Class": {
+          "trim": [
+            "180 classic",
+            "180 elegance at",
+            "180 elegance mt",
+            "200 blueefficiency",
+            "200 cdi classic",
+            "200 cdi elegance",
+            "200 cgi avantgarde",
+            "200 k at",
+            "200 k elegance at",
+            "200 k elegance mt",
+            "200 k mt",
+            "200k at",
+            "200k mt",
+            "220 blueefficiency",
+            "220 cdi",
+            "220 cdi at",
+            "220 cdi avantgarde at",
+            "220 cdi elegance at",
+            "220 cdi elegance mt",
+            "220 cdi mt",
+            "230 avantgarde",
+            "250 avantgarde",
+            "250 cdi",
+            "250 cdi avantgarde",
+            "250 cdi classic",
+            "250 cdi elegance",
+            "250 cgi limited edition",
+            "63 amg",
+            "c 200 avantgarde",
+            "c 200 cgi elegance",
+            "c 200 kompressor",
+            "c 200 prime",
+            "c 200 prime bs6",
+            "c 200 progressive",
+            "c 200 progressive bs6",
+            "c 220 cdi avantgarde",
+            "c 220 cdi classic",
+            "c 220 cdi sports",
+            "c 220 cdi style",
+            "c 220d edition c",
+            "c 220d prime",
+            "c 220d prime bs6",
+            "c 220d progressive",
+            "c 250 cdi blueefficiency",
+            "c 250 d",
+            "c 250 d avantgarde",
+            "c 250 d avantgarde edition c",
+            "c 300d amg line",
+            "c 43 amg",
+            "c 63 s amg",
+            "c180 kompressor",
+            "c200 edition c",
+            "c200 kompressor",
+            "c220 d",
+            "edition c",
+            "grand edition cdi"
+          ]
+        },
+        "CLA": {
+          "trim": [
+            "200 cdi sport",
+            "200 cdi sport (cbu)",
+            "200 cdi style",
+            "200 petrol sport",
+            "45 aero edition",
+            "45 amg",
+            "45 amg 4matic"
+          ]
+        },
+        "CLS": {
+          "trim": [
+            "250 cdi",
+            "300d",
+            "300d bs6",
+            "350",
+            "350 blue efficiency",
+            "350 cdi"
+          ]
+        },
+        "E-Class": {
+          "trim": [
+            "200k classic",
+            "220 cdi at",
+            "220 cdi avantgarde",
+            "220 cdi mt",
+            "240 v6 at",
+            "240 v6 mt",
+            "250 d",
+            "270 cdi",
+            "280 cdi elegance",
+            "280 elegance",
+            "e 200",
+            "e 200 avantgarde",
+            "e 200 cgi blue efficiency",
+            "e 200 edition e",
+            "e 200 exclusive",
+            "e 200 exclusive bs6",
+            "e 200 expression",
+            "e 220 cdi elegance",
+            "e 220 d",
+            "e 220 expression bs6",
+            "e 220d exclusive",
+            "e 220d exclusive bs6",
+            "e 220d expression",
+            "e 220d expression bs6",
+            "e 230 elegance",
+            "e 250 cdi",
+            "e 250 cdi avantgarde",
+            "e 250 cdi classic",
+            "e 250 cdi edition e",
+            "e 250 cdi elegance",
+            "e 250 elegance",
+            "e 280 cdi",
+            "e 280 cdi avantgrade",
+            "e 280 cdi elegance",
+            "e 350 cabriolet",
+            "e 350 cdi",
+            "e 350 cdi avantgarde",
+            "e 350 cdi edition e",
+            "e 350 cdi elegance",
+            "e 350 cgi avantgarde",
+            "e 350 d",
+            "e 350 d elite bs6",
+            "e 63 amg",
+            "e 63 amg s 4matic plus",
+            "e 63 amg s 4matic plus bs6",
+            "e200 cgi",
+            "e220 cdi blue efficiency",
+            "e250 cdi blue efficiency",
+            "e250 cdi launch edition",
+            "e350 cdi blueefficiency",
+            "e350 cgi"
+          ]
+        },
+        "E-Class All Terrain": {
+          "trim": [
+            "e 220 d"
+          ]
+        },
+        "G-Class": {
+          "trim": [
+            "55 amg",
+            "g 350d bs6",
+            "g 63 amg",
+            "g 63 amg bs6",
+            "g 63 amg crazy colour edition",
+            "g 63 edition 463"
+          ]
+        },
+        "GL": {
+          "trim": [
+            "3.0 grand edition luxury",
+            "350 cdi blue efficiency",
+            "350 cdi luxury"
+          ]
+        },
+        "GLA": {
+          "trim": [
+            "200 cdi sport",
+            "200 cdi style",
+            "200 cgi avantgrade",
+            "200 d sport",
+            "200 d style",
+            "200 sport",
+            "200d urban edition",
+            "220 d 4matic",
+            "220 d activity edition",
+            "220d urban edition",
+            "45 aero edition",
+            "45 amg",
+            "45 amg 4matic"
+          ]
+        },
+        "GLA-Class": {
+          "trim": [
+            "200 sport"
+          ]
+        },
+        "GLC": {
+          "trim": [
+            "200 4matic bs6",
+            "220 d",
+            "220 d 4matic bs6",
+            "220 d prime",
+            "220 d progressive",
+            "220 d sport",
+            "220 d style",
+            "220d 4 matic style",
+            "220d 4matic sport",
+            "300",
+            "300 progressive",
+            "300 sport",
+            "43 amg coupe",
+            "celebration edition diesel",
+            "celebration edition petrol"
+          ]
+        },
+        "GLC Coupe": {
+          "trim": [
+            "43 4matic amg"
+          ]
+        },
+        "GLE": {
+          "trim": [
+            "250 d",
+            "300d 4matic lwb",
+            "300d 4matic lwb bs6",
+            "350 d",
+            "400 4matic",
+            "400d 4matic hip hop edition",
+            "400d 4matic hip hop edition bs6",
+            "400d 4matic lwb bs6",
+            "450 4matic lwb bs6"
+          ]
+        },
+        "GLS": {
+          "trim": [
+            "350 d",
+            "400 4matic",
+            "400d 4matic bs6",
+            "450 4matic bs6",
+            "63 amg"
+          ]
+        },
+        "M-Class": {
+          "trim": [
+            "m guard",
+            "ml 320 cdi",
+            "ml 350 cdi"
+          ]
+        },
+        "R Class": {
+          "trim": [
+            "r350",
+            "r350 cdi 4matic"
+          ]
+        },
+        "S-Class": {
+          "trim": [
+            "320 cdi",
+            "320 l",
+            "350 cdi long blue efficiency",
+            "350 l",
+            "maybach s 500",
+            "maybach s 560",
+            "maybach s 600",
+            "maybach s 600 guard",
+            "maybach s 650",
+            "maybach s 650 bs6",
+            "s 350 cdi",
+            "s 350 cdi connoisseur\u2019s edition",
+            "s 350d",
+            "s 350d bs6",
+            "s 400",
+            "s 400 connoisseur\u2019s edition",
+            "s 450",
+            "s 500",
+            "s 560 maestro bs6",
+            "s 63 amg",
+            "s guard",
+            "s300 l",
+            "s350 bluetec",
+            "s350 cdi l v6",
+            "s500"
+          ]
+        },
+        "SDL": {
+          "trim": [
+            "3.5"
+          ]
+        },
+        "V-Class": {
+          "trim": [
+            "elite bs6",
+            "exclusive lwb",
+            "exclusive lwb bs6",
+            "expression elwb",
+            "expression elwb bs6",
+            "marco polo bs6",
+            "marco polo horizon bs6"
+          ]
+        },
+        "VIANO": {
+          "trim": [
+            "2.2 cdi long"
+          ]
+        }
+      }
+    },
+    "Mini": {
+      "model": {
+        "3 DOOR": {
+          "trim": [
+            "cooper s jcw pro edition"
+          ]
+        },
+        "Clubman": {
+          "trim": [
+            "cooper s"
+          ]
+        },
+        "Cooper": {
+          "trim": [
+            "1.6",
+            "d 3 door",
+            "d 5 door",
+            "s",
+            "s 3 door",
+            "s 3 door oxford edition"
+          ]
+        },
+        "Cooper Countryman": {
+          "trim": [
+            "d",
+            "d high",
+            "s"
+          ]
+        },
+        "Countryman": {
+          "trim": [
+            "cooper d",
+            "cooper s",
+            "cooper s jcw inspired",
+            "cooper sd"
+          ]
+        }
+      }
+    },
+    "Mitsubishi": {
+      "model": {
+        "Cedia": {
+          "trim": [
+            "elegance",
+            "gxi",
+            "new sports",
+            "select",
+            "select alpg",
+            "spirit",
+            "sports"
+          ]
+        },
+        "Diamante": {
+          "trim": [
+            "2.5v"
+          ]
+        },
+        "Eclipse Cross": {
+          "trim": [
+            "diesel"
+          ]
+        },
+        "Lancer": {
+          "trim": [
+            "1.5 cne",
+            "1.8 invex",
+            "exel 1.5",
+            "gld 2.0",
+            "glxd 2.0",
+            "glxi 1.5",
+            "lei 1.5",
+            "lei 1.8",
+            "lxd",
+            "lxd 2.0",
+            "lxi",
+            "lxi 1.5",
+            "lxi 1.8",
+            "sfxd 2.0",
+            "sfxi 1.5",
+            "sfxi 1.8",
+            "slxd 2.0",
+            "slxi 1.5",
+            "xli 1.8"
+          ]
+        },
+        "LANCER EVOLUTION": {
+          "trim": [
+            "x"
+          ]
+        },
+        "Montero": {
+          "trim": [
+            "3.2 di-d at",
+            "3.2 gls",
+            "3.2 mt"
+          ]
+        },
+        "Outlander": {
+          "trim": [
+            "2.4 4x4 at",
+            "2.4 at",
+            "2.4 chrome ltd",
+            "2.4 mivec"
+          ]
+        },
+        "Pajero": {
+          "trim": [
+            "4x4 lhd",
+            "gl 2.8",
+            "glx 2.8",
+            "glx 2.8 crz",
+            "sfx 2.8"
+          ]
+        },
+        "Pajero Sport": {
+          "trim": [
+            "2.5 at",
+            "2.5 mt",
+            "2.8 sfx bsiv dual tone",
+            "4x4 mt",
+            "facelift",
+            "limited edition",
+            "select plus at",
+            "select plus mt"
+          ]
+        },
+        "Xpander": {
+          "trim": [
+            "diesel"
+          ]
+        }
+      }
+    },
+    "Nissan": {
+      "model": {
+        "EM2": {
+          "trim": [
+            "petrol"
+          ]
+        },
+        "Evalia": {
+          "trim": [
+            "sv",
+            "xe",
+            "xe plus",
+            "xl",
+            "xl option",
+            "xv",
+            "xv option"
+          ]
+        },
+        "Kicks": {
+          "trim": [
+            "xe 1.5 diesel",
+            "xl 1.5 bs6",
+            "xl 1.5 diesel",
+            "xl 1.5 petrol",
+            "xv 1.5 bs6",
+            "xv 1.5 diesel",
+            "xv 1.5 petrol",
+            "xv pre (o) 1.5 diesel",
+            "xv pre 1.5 diesel",
+            "xv premium (o) turbo 1.3 bs6",
+            "xv premium (o) turbo 1.3 dual tone bs6",
+            "xv premium turbo 1.3 bs6",
+            "xv premium turbo 1.3 cvt bs6",
+            "xv turbo 1.3 bs6",
+            "xv turbo 1.3 cvt bs6"
+          ]
+        },
+        "Magnite": {
+          "trim": [
+            "petrol"
+          ]
+        },
+        "Micra": {
+          "trim": [
+            "dci xl comfort",
+            "fashion edition",
+            "xe diesel",
+            "xe petrol",
+            "xe plus petrol",
+            "xl (o) cvt",
+            "xl (o) diesel",
+            "xl cvt",
+            "xl diesel",
+            "xl optional",
+            "xl petrol",
+            "xv cvt",
+            "xv diesel",
+            "xv petrol",
+            "xv premium diesel",
+            "xv primo",
+            "xv primo diesel"
+          ]
+        },
+        "Micra Active": {
+          "trim": [
+            "xl",
+            "xl o",
+            "xv",
+            "xv s",
+            "xv safety pack"
+          ]
+        },
+        "Sunny": {
+          "trim": [
+            "xe",
+            "xe diesel",
+            "xe petrol",
+            "xl cvt at",
+            "xl diesel",
+            "xl petrol",
+            "xv cvt",
+            "xv d premium leather",
+            "xv d premium safety",
+            "xv diesel",
+            "xv petrol"
+          ]
+        },
+        "Teana": {
+          "trim": [
+            "230jm",
+            "250 xl",
+            "250 xv",
+            "mid",
+            "upper"
+          ]
+        },
+        "Terra": {
+          "trim": [
+            "diesel"
+          ]
+        },
+        "Terrano": {
+          "trim": [
+            "xe d",
+            "xl d",
+            "xl d opt",
+            "xl d plus",
+            "xl d thp 110 ps",
+            "xl p",
+            "xl plus 85 ps",
+            "xv d thp 110 ps",
+            "xv d thp premium 110 ps",
+            "xv premium auto drive",
+            "xv premium d",
+            "xvd premium amt"
+          ]
+        },
+        "X-Trail": {
+          "trim": [
+            "comfort",
+            "elegance",
+            "hybrid",
+            "le",
+            "slx at",
+            "slx mt"
+          ]
+        }
+      }
+    },
+    "Opel": {
+      "model": {
+        "ASTRA": {
+          "trim": [
+            "1.6",
+            "1.6 advantage",
+            "1.6 club",
+            "1.6 club at",
+            "1.6 gli",
+            "1.6 metro",
+            "1.6 my99",
+            "1.7 advantage",
+            "1.7 club"
+          ]
+        },
+        "Corsa": {
+          "trim": [
+            "1.4 gl",
+            "1.4 gls",
+            "1.4 gsi",
+            "1.6 gls",
+            "1.6 gsi",
+            "1.6 royale",
+            "sail 1.4",
+            "sail 1.6"
+          ]
+        },
+        "Vectra": {
+          "trim": [
+            "2.2 comfort"
+          ]
+        }
+      }
+    },
+    "Pagani": {
+      "model": {}
+    },
+    "Porsche": {
+      "model": {
+        "Cayenne": {
+          "trim": [
+            "base",
+            "diesel",
+            "e-hybrid",
+            "gts",
+            "platinum edition",
+            "platinum edition diesel",
+            "s diesel",
+            "s hybrid",
+            "s petrol",
+            "turbo",
+            "turbo s",
+            "v6",
+            "v6 tiptronic"
+          ]
+        },
+        "Cayenne Coupe": {
+          "trim": [
+            "base",
+            "turbo"
+          ]
+        },
+        "Macan": {
+          "trim": [
+            "2.0 l petrol",
+            "base",
+            "r4",
+            "s diesel",
+            "s petrol",
+            "turbo"
+          ]
+        },
+        "Panamera": {
+          "trim": [
+            "4s",
+            "base",
+            "diesel gran turismo edition",
+            "executive turbo",
+            "gts",
+            "s",
+            "turbo",
+            "turbo sport turismo"
+          ]
+        },
+        "Taycan": {
+          "trim": [
+            "petrol"
+          ]
+        }
+      }
+    },
+    "Premier": {
+      "model": {
+        "Rio": {
+          "trim": [
+            "petrol"
+          ]
+        },
+        "RIO PLUS": {
+          "trim": [
+            "dx",
+            "glx",
+            "gx",
+            "lx"
+          ]
+        }
+      }
+    },
+    "Renault": {
+      "model": {
+        "Arkana": {
+          "trim": [
+            "diesel"
+          ]
+        },
+        "Captur": {
+          "trim": [
+            "platine diesel",
+            "platine diesel dual tone",
+            "platine mono diesel",
+            "platine petrol dual tone",
+            "rxe diesel",
+            "rxe petrol",
+            "rxl diesel",
+            "rxl petrol",
+            "rxt diesel",
+            "rxt mono diesel",
+            "rxt mono petrol",
+            "rxt petrol"
+          ]
+        },
+        "Duster": {
+          "trim": [
+            "104 ps rxe",
+            "104 ps rxl",
+            "110 ps rxl",
+            "110 ps rxl 4x2 diesel amt",
+            "110 ps rxl 4x2 diesel mt",
+            "110 ps rxs 4x2 amt diesel",
+            "110 ps rxs 4x4 opt diesel",
+            "110 ps rxs mt diesel",
+            "110 ps rxs sandstorm edition",
+            "110 ps rxz",
+            "110 ps rxz 4x2 diesel amt",
+            "110 ps rxz 4x2 diesel mt",
+            "110 ps rxz 4x4 diesel mt",
+            "110 ps rxz awd",
+            "110 ps rxz diesel opt",
+            "110 ps rxz diesel plus",
+            "110 ps sandstorm edition",
+            "110ps diesel rxz pack",
+            "85 ps base 4x2 diesel mt",
+            "85 ps rxe",
+            "85 ps rxe 4x2 diesel mt",
+            "85 ps rxe diesel adventure",
+            "85 ps rxl",
+            "85 ps rxl 4x2 diesel mt",
+            "85 ps rxl diesel opt",
+            "85 ps rxl diesel plus",
+            "85 ps rxl explore",
+            "85 ps rxs",
+            "85 ps rxs 4x2 diesel mt",
+            "85 ps rxs sandstorm edition",
+            "85 ps rxz 4x2 diesel mt",
+            "85 ps sandstorm edition",
+            "85ps diesel rxl optional with nav",
+            "adventure edition 110 ps rxz awd",
+            "adventure edition 85 ps rxl diesel",
+            "petrol rxe",
+            "petrol rxl",
+            "rxe",
+            "rxe 1.3 turbo petrol bs6",
+            "rxe 1.5 petrol bs6",
+            "rxe petrol 104",
+            "rxl petrol 104",
+            "rxs 1.3 turbo petrol bs6",
+            "rxs 1.3 turbo petrol cvt bs6",
+            "rxs 1.5 petrol bs6",
+            "rxs cvt",
+            "rxs petrol",
+            "rxs petrol opt cvt",
+            "rxz",
+            "rxz 1.3 turbo petrol bs6",
+            "rxz 1.3 turbo petrol cvt bs6",
+            "rxz 1.5 petrol bs6",
+            "rxz diesel 110",
+            "rxz plus"
+          ]
+        },
+        "Fluence": {
+          "trim": [
+            "1.5 e2",
+            "advantage edition",
+            "e2 d",
+            "e4 d"
+          ]
+        },
+        "KOLEOS": {
+          "trim": [
+            "4x2 mt",
+            "4x4 at",
+            "4x4 mt"
+          ]
+        },
+        "KWID": {
+          "trim": [
+            "1.0 marvel iron man edition",
+            "1.0 marvel iron man edition amt",
+            "1.0 rxl",
+            "1.0 rxl 02 anniversary edition",
+            "1.0 rxl amt",
+            "1.0 rxl amt bs6",
+            "1.0 rxl bs6",
+            "1.0 rxl edition",
+            "1.0 rxt",
+            "1.0 rxt 02 anniversary edition",
+            "1.0 rxt amt",
+            "1.0 rxt amt bs6",
+            "1.0 rxt amt opt",
+            "1.0 rxt amt opt bs6",
+            "1.0 rxt bs6",
+            "1.0 rxt edition",
+            "1.0 rxt opt",
+            "1.0 rxt opt bs6",
+            "climber 1.0",
+            "climber 1.0 amt",
+            "climber 1.0 amt bs6",
+            "climber 1.0 amt opt bs6",
+            "climber 1.0 bs6",
+            "climber 1.0 opt bs6",
+            "rxe",
+            "rxe bs6",
+            "rxe opt",
+            "rxl",
+            "rxl 02 anniversary edition",
+            "rxl bs6",
+            "rxl edition",
+            "rxt",
+            "rxt 02 anniversary edition",
+            "rxt bs6",
+            "rxt edition",
+            "rxt opt",
+            "std",
+            "std bs6"
+          ]
+        },
+        "Kwid MPV": {
+          "trim": [
+            "diesel"
+          ]
+        },
+        "Lodgy": {
+          "trim": [
+            "110 ps rxl 8 str",
+            "110 ps rxl stepway 8 str",
+            "110 ps rxz",
+            "110 ps rxz 7 str",
+            "110 ps rxz 7 str stepway",
+            "110 ps rxz 8 str",
+            "110 ps rxz stepway",
+            "110 ps rxz stepway 8 str",
+            "110 ps world edition",
+            "85 ps rxe",
+            "85 ps rxe 7 str",
+            "85 ps rxe 8 str",
+            "85 ps rxl",
+            "85 ps rxl 7 str",
+            "85 ps rxl stepway 8 str",
+            "85 ps rxz",
+            "85 ps rxz stepway 8 str",
+            "85 ps std",
+            "85 ps std 8 str",
+            "85 ps world edition"
+          ]
+        },
+        "Pulse": {
+          "trim": [
+            "rx l petrol",
+            "rx z air bags diesel",
+            "rxe petrol",
+            "rxl abs diesel",
+            "rxl diesel",
+            "rxz abs diesel",
+            "rxz diesel",
+            "rxz diesel airbags",
+            "rxz diesel optional",
+            "rxz petrol"
+          ]
+        },
+        "Scala": {
+          "trim": [
+            "rxe diesel",
+            "rxl diesel",
+            "rxl diesel travelogue",
+            "rxl petrol",
+            "rxz diesel",
+            "rxz diesel travelogue"
+          ]
+        },
+        "Triber": {
+          "trim": [
+            "rxe",
+            "rxe bs6",
+            "rxl",
+            "rxl bs6",
+            "rxl easy-r amt bs6",
+            "rxt",
+            "rxt bs6",
+            "rxt easy-r amt bs6",
+            "rxz",
+            "rxz bs6",
+            "rxz easy-r amt bs6"
+          ]
+        }
+      }
+    },
+    "Rolls-Royce": {
+      "model": {
+        "Cullinan": {
+          "trim": [
+            "v12"
+          ]
+        },
+        "Ghost Series II": {
+          "trim": [
+            "6.6",
+            "black badge",
+            "ewb"
+          ]
+        },
+        "Phantom": {
+          "trim": [
+            "ewb",
+            "sedan"
+          ]
+        },
+        "Phantom VIII": {
+          "trim": [
+            "sedan"
+          ]
+        }
+      }
+    },
+    "Skoda": {
+      "model": {
+        "Fabia": {
+          "trim": [
+            "1.2 mpi active plus",
+            "1.2 tdi ambiente",
+            "active 1.2 mpi",
+            "active 1.2 tdi",
+            "active 1.4 pd tdi",
+            "active plus 1.2 mpi",
+            "active plus 1.2 tdi",
+            "ambiente 1.2 mpi",
+            "ambiente 1.2 tdi",
+            "ambiente 1.4 mpi",
+            "ambiente 1.4 pd tdi",
+            "ambiente plus 1.2 tdi",
+            "ambition 1.2 mpi",
+            "ambition 1.2 tdi",
+            "ambition plus 1.2 mpi",
+            "ambition plus 1.2 tdi cr",
+            "classic 1.2 mpi",
+            "classic 1.2 tdi",
+            "classic 1.4 pd",
+            "classic 1.4 pd tdi",
+            "elegance 1.2 mpi",
+            "elegance 1.2 tdi",
+            "elegance 1.2 tdi cr",
+            "elegance 1.4 mpi",
+            "elegance 1.4 pd tdi",
+            "elegance 1.6 mpi",
+            "scout 1.2 mpi",
+            "scout 1.2 tdi"
+          ]
+        },
+        "Kamiq": {
+          "trim": [
+            "diesel"
+          ]
+        },
+        "Karoq": {
+          "trim": [
+            "1.5 tsi"
+          ]
+        },
+        "Kodiaq": {
+          "trim": [
+            "l&k 2.0 tdi 4x4 at",
+            "scout",
+            "style tdi 4x4 at"
+          ]
+        },
+        "Laura": {
+          "trim": [
+            "1.8 tsi at ambition",
+            "active 1.8 tsi",
+            "active 1.8 tsi at",
+            "ambiente 1.8 tsi",
+            "ambiente 1.8 tsi at",
+            "ambiente 1.9 pd",
+            "ambiente 1.9 tdi",
+            "ambiente 1.9 tdi at",
+            "ambiente 1.9 tdi mt",
+            "ambiente 2.0 tdi cr",
+            "ambiente 2.0 tdi cr at",
+            "ambiente 2.0 tdi cr mt",
+            "ambition 1.8 tsi",
+            "ambition 2.0 tdi cr at",
+            "ambition 2.0 tdi cr mt",
+            "classic 1.8 tsi",
+            "elegance 1.9 pd",
+            "elegance 1.9 tdi at",
+            "elegance 1.9 tdi mt",
+            "elegance 2.0 tdi cr at",
+            "elegance 2.0 tdi cr mt",
+            "l&k 1.9 pd",
+            "l&k 2.0 tdi at",
+            "l&k 2.0 tdi mt",
+            "lk 1.9 pd at",
+            "lk 1.9 pd mt",
+            "rs"
+          ]
+        },
+        "Octavia": {
+          "trim": [
+            "1.4 tsi ambition plus",
+            "1.4 tsi style",
+            "1.5 tdi cr style plus",
+            "1.8 tsi ambition plus at",
+            "1.8 tsi l&k",
+            "1.8 tsi style at",
+            "1.8 tsi style plus at",
+            "2.0 tdi cr ambition",
+            "2.0 tdi cr ambition at",
+            "2.0 tdi cr ambition plus",
+            "2.0 tdi cr ambition plus at",
+            "2.0 tdi cr style",
+            "2.0 tdi cr style at",
+            "2.0 tdi cr style plus at",
+            "2.0 tdi l&k",
+            "active 1.4 tsi",
+            "active 2.0 tdi cr",
+            "ambiente 1.8 turbo",
+            "ambiente 1.9 tdi",
+            "ambition 1.4 tsi mt",
+            "elegance 1.8 tsi at",
+            "elegance 1.9 tdi",
+            "elegance 1.9 tdi at",
+            "elegance 2.0 mpi",
+            "elegance 2.0 tdi at",
+            "elegance plus 1.9 tdi",
+            "l&k 1.9 tdi",
+            "onyx 1.8 tsi at",
+            "onyx 2.0 tdi at",
+            "rider 1.8 turbo",
+            "rider 1.9 at tdi",
+            "rider 1.9 tdi",
+            "rs",
+            "rs 1.8 turbo",
+            "rs 245"
+          ]
+        },
+        "Octavia Combi": {
+          "trim": [
+            "rs"
+          ]
+        },
+        "Octavia RS 245": {
+          "trim": [
+            "diesel"
+          ]
+        },
+        "Rapid": {
+          "trim": [
+            "1.0 petrol",
+            "1.5 tdi active mt",
+            "1.5 tdi cr active",
+            "1.5 tdi cr ambition",
+            "1.5 tdi cr ambition at",
+            "1.5 tdi cr ambition at with alloy wheels",
+            "1.5 tdi cr ambition mt with alloy wheels",
+            "1.5 tdi cr elegance",
+            "1.5 tdi cr elegance at",
+            "1.5 tdi cr elegance black package at",
+            "1.5 tdi cr elegance plus",
+            "1.5 tdi cr elegance plus at",
+            "1.5 tdi cr elegance plus black package",
+            "1.5 tdi cr elegance plus black package at",
+            "1.5 tdi cr style plus",
+            "1.5 tdi cr style plus at",
+            "1.5 tdi cr style plus black package",
+            "1.5 tdi cr style plus black package at",
+            "1.5 tdi style mt",
+            "1.6 active plus tdi",
+            "1.6 mpi active mt",
+            "1.6 mpi ambition",
+            "1.6 mpi ambition at",
+            "1.6 mpi ambition with alloy wheels",
+            "1.6 mpi at ambition plus",
+            "1.6 mpi at elegance",
+            "1.6 mpi elegance",
+            "1.6 mpi style",
+            "1.6 mpi style at",
+            "1.6 mpi style black package at",
+            "1.6 mpi style plus",
+            "1.6 mpi style plus at",
+            "1.6 mpi style plus black package",
+            "1.6 mpi style plus black package at",
+            "1.6 mpi style plus mt",
+            "1.6 tdi mt active",
+            "ambition 1.6 tdi cr mt",
+            "ambition 1.6 tdi cr mt plus",
+            "ambition plus 1.5 tdi cr",
+            "ambition plus 1.6 mpi mt",
+            "elegance 1.6 tdi mt",
+            "elegance plus 1.6 tdi mt",
+            "leisure 1.6 tdi cr mt",
+            "monte carlo 1.5 tdi at",
+            "monte carlo 1.5 tdi mt",
+            "monte carlo 1.6 mpi at",
+            "monte carlo 1.6 mpi mt",
+            "onyx 1.5 tdi at le",
+            "onyx 1.5 tdi le",
+            "onyx 1.6 mpi at le",
+            "onyx 1.6 mpi le",
+            "style 1.5 tdi at",
+            "tsi rider plus 1.0 bs6"
+          ]
+        },
+        "SUPERB": {
+          "trim": [
+            "1.8 l&k tsi at",
+            "1.8 style tsi at",
+            "1.8 style tsi mt",
+            "2.0 l&k tdi at",
+            "2.0 style tdi at",
+            "2.0 tdi pd",
+            "2.5 tdi",
+            "2.5 tdi at",
+            "2.5 tdi comfort",
+            "2.5 tdi comfort at",
+            "2.8 v6",
+            "3.6 fsi 4x4",
+            "ambition 1.8 tsi mt",
+            "ambition 2.0 tdi cr at",
+            "elegance 1.8 tsi at",
+            "elegance 1.8 tsi mt",
+            "l&k tdi at",
+            "l&k tsi at",
+            "sportline tdi at",
+            "sportline tsi at",
+            "style tdi at",
+            "style tsi at",
+            "style tsi mt"
+          ]
+        },
+        "Vision X": {
+          "trim": [
+            "1.5l"
+          ]
+        },
+        "Yeti": {
+          "trim": [
+            "active 2.0 tdi cr 4x2",
+            "ambition 2.0 tdi cr 4x2",
+            "ambition 2.0 tdi cr 4x4",
+            "elegance 2.0 tdi cr 4x4",
+            "style 4x2",
+            "style 4x4"
+          ]
+        }
+      }
+    },
+    "Volkswagen": {
+      "model": {
+        "Ameo": {
+          "trim": [
+            "1.2l (p) anniversary edition",
+            "comfortline 1.0l (p)",
+            "comfortline 1.2l (p)",
+            "comfortline 1.5l (d)",
+            "comfortline 1.5l at (d)",
+            "comfortline plus 1.0l (p)",
+            "comfortline plus 1.2l (p)",
+            "comfortline plus 1.5 (d)",
+            "comfortline plus 1.5l at (d)",
+            "cup edition diesel",
+            "cup edition petrol",
+            "highline 1.0l (p)",
+            "highline 1.0l plus (p)",
+            "highline 1.2l (p)",
+            "highline 1.2l plus (p)",
+            "highline 1.5l (d)",
+            "highline 1.5l at (d)",
+            "highline plus 1.0l (p) 16 alloy",
+            "highline plus 1.0l (p) connect edition",
+            "highline plus 1.5l (d)",
+            "highline plus 1.5l (d) at",
+            "highline plus 1.5l (d) conncet edition",
+            "trendline 1.0l (p)",
+            "trendline 1.2l (p)",
+            "trendline 1.5l (d)"
+          ]
+        },
+        "Cross Polo": {
+          "trim": [
+            "1.2 mpi",
+            "1.2 tdi",
+            "1.5 tdi"
+          ]
+        },
+        "GTI": {
+          "trim": [
+            "1.8 tsi"
+          ]
+        },
+        "Jetta": {
+          "trim": [
+            "1.4 tsi comfortline mt",
+            "1.4 tsi trendline mt",
+            "1.4l tsi comfortline",
+            "1.4l tsi trendline",
+            "1.6 tdi",
+            "1.9 highline tdi",
+            "1.9 tdi comfortline",
+            "2.0 tdi highline mt",
+            "2.0l tdi comfortline",
+            "2.0l tdi highline",
+            "2.0l tdi highline at",
+            "2.0l tdi trendline",
+            "comfortline 1.9 tdi",
+            "comfortline 1.9 tdi at",
+            "trendline 1.6",
+            "trendline 1.9 tdi"
+          ]
+        },
+        "Passat": {
+          "trim": [
+            "1.8l tsi",
+            "2.0 td",
+            "bluemotion m / t",
+            "comfortline",
+            "comfortline 2.0 tdi",
+            "comfortline 2.0 tdi at",
+            "comfortline 2.0 tdi at connect edition",
+            "comfortline dsg",
+            "highline",
+            "highline 2.0 tdi",
+            "highline 2.0 tdi at",
+            "highline 2.0 tdi at connect edition",
+            "highline dsg",
+            "highline dsg s",
+            "highline mt",
+            "trendline at",
+            "trendline mt"
+          ]
+        },
+        "Phaeton": {
+          "trim": [
+            "3.6l"
+          ]
+        },
+        "Polo": {
+          "trim": [
+            "1.2 mpi anniversary edition",
+            "1.2 tdi highline",
+            "allstar 1.2l (p)",
+            "allstar 1.5l (d)",
+            "comfortline 1.0 petol",
+            "comfortline 1.2l (d)",
+            "comfortline 1.2l (p)",
+            "comfortline 1.5l (d)",
+            "comfortline plus 1.0l mpi bs6",
+            "cup edition diesel",
+            "cup edition petrol",
+            "facelift",
+            "gt tdi",
+            "gt tdi sport",
+            "gt tsi",
+            "gt tsi bs6",
+            "gt tsi sport",
+            "highline 1.0 petrol",
+            "highline 1.0 plus",
+            "highline 1.0 plus connect edition",
+            "highline 1.2l (p)",
+            "highline 1.5l (d)",
+            "highline 1.6l (p)",
+            "highline plus 1.0l (p) 16 alloy",
+            "highline plus 1.0l tsi at bs6",
+            "highline plus 1.0l tsi bs6",
+            "highline plus 1.2 petrol",
+            "highline plus 1.5 (d) 16 alloy",
+            "highline plus 1.5 diesel",
+            "highline plus 1.5 diesel connect edition",
+            "highline1.2l diesel",
+            "limited tsi edition bs6",
+            "pace 1.0",
+            "red and white edition",
+            "trendline 1.0 petrol",
+            "trendline 1.0l mpi bs6",
+            "trendline 1.2l (p)",
+            "trendline 1.5l (d)"
+          ]
+        },
+        "T Roc": {
+          "trim": [
+            "1.5 tsi bs6"
+          ]
+        },
+        "T-Cross": {
+          "trim": [
+            "diesel"
+          ]
+        },
+        "Taigun": {
+          "trim": [
+            "tsi"
+          ]
+        },
+        "Tiguan": {
+          "trim": [
+            "comfortline tdi",
+            "highline tdi"
+          ]
+        },
+        "Tiguan AllSpace": {
+          "trim": [
+            "2.0 tsi bs6"
+          ]
+        },
+        "Touareg": {
+          "trim": [
+            "3.0 v6 tdi",
+            "5.0 v10 tdi"
+          ]
+        },
+        "Vento": {
+          "trim": [
+            "1.2 tsi highline at",
+            "1.2l tsi highline plus at",
+            "1.5 tdi comfortline",
+            "1.5 tdi comfortline at",
+            "1.5 tdi highline",
+            "1.5 tdi highline plus",
+            "1.5 tdi highline plus at",
+            "1.6 highline",
+            "1.6 mpi highline plus",
+            "1.6l highline petrol at",
+            "1.6l style petrol",
+            "allstar 1.5 (d)",
+            "allstar 1.6 (p)",
+            "comfortline 1.0 plus petrol bs6",
+            "comfortline 1.6 petrol",
+            "comfortline diesel",
+            "comfortline diesel at",
+            "comfortline petrol",
+            "comfortline petrol at",
+            "cup edition diesel",
+            "cup edition petrol",
+            "facelift",
+            "gt line diesel",
+            "gt line petrol",
+            "highline",
+            "highline 1.0 at bs6",
+            "highline 1.0 petrol bs6",
+            "highline diesel",
+            "highline diesel at",
+            "highline diesel connect edition",
+            "highline petrol",
+            "highline petrol at",
+            "highline petrol connect edition",
+            "highline plus 1.0 at bs6",
+            "highline plus 1.0 petrol bs6",
+            "highline plus 1.2 (p) at 16 alloy",
+            "highline plus 1.2 petrol at",
+            "highline plus 1.5 at (d) 16 alloy",
+            "highline plus 1.6 petrol",
+            "limited tsi edition bs6",
+            "preferred edtion (d)",
+            "preferred edtion (d) at",
+            "preferred edtion (p)",
+            "preferred edtion (p) at",
+            "red and white edition",
+            "trendline 1.0 petrol bs6",
+            "trendline diesel",
+            "trendline petrol"
+          ]
+        },
+        "Virtus": {
+          "trim": [
+            "petrol"
+          ]
+        }
+      }
+    },
+    "Volvo": {
+      "model": {
+        "S60": {
+          "trim": [
+            "cross country",
+            "cross country inscription",
+            "d4 momentum",
+            "diesel",
+            "inscription",
+            "kinetic",
+            "kinetic d3",
+            "kinetic d5",
+            "momentum",
+            "polestar",
+            "summum d3",
+            "t6"
+          ]
+        },
+        "S80": {
+          "trim": [
+            "d5",
+            "inscription",
+            "kinetic d3",
+            "kinetic d4",
+            "momentum",
+            "summum d4",
+            "summum d5",
+            "v8 awd"
+          ]
+        },
+        "S90": {
+          "trim": [
+            "inscription d4",
+            "inscription luxury",
+            "momentum d4"
+          ]
+        },
+        "V40": {
+          "trim": [
+            "d3",
+            "d3 kinetic",
+            "d3 r-design"
+          ]
+        },
+        "XC40": {
+          "trim": [
+            "d4 inscription",
+            "d4 momentum",
+            "d4 r-design"
+          ]
+        },
+        "XC60": {
+          "trim": [
+            "d5 inscription",
+            "inscription",
+            "kinetic",
+            "momentum"
+          ]
+        },
+        "XC90": {
+          "trim": [
+            "d5 awd",
+            "d5 summum",
+            "excellence",
+            "inscription luxury",
+            "momentum luxury",
+            "r design",
+            "t8 excellence",
+            "t8 inscription"
+          ]
+        }
+      }
+    }
+  }
+}
